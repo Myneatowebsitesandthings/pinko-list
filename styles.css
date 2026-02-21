@@ -1,0 +1,358 @@
+﻿/* General Reset */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  height: 100vh;
+}
+
+/* Container Setup */
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+/* Left Frame */
+.left-frame {
+  background-color: #2b2b2b;
+  color: white;
+  width: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* Ensure buttons expand downward */
+  padding-top: 10px;
+  box-sizing: border-box;
+  transition: width 0.3s ease;
+  overflow-y: auto; /* Enable vertical scrolling */
+  max-height: 100vh; /* Ensures it doesn’t exceed the viewport height */
+}
+
+.left-frame.collapsed {
+  width: 5%;
+  align-items: center; /* Adjust alignment when collapsed */
+}
+
+/* Logo styling */
+.logo-placeholder {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 5px; /* Adjusted margin for consistency */
+}
+
+.logo-image {
+  width: 80px;  /* Set logo to match the button size */
+  height: 80px;  /* Same height as buttons */
+  max-width: 80px;  /* Limit max width */
+  height: auto;  /* Maintain aspect ratio */
+}
+
+/* Underline below the logo - Fixed */
+.underline {
+  width: 80px;  /* Same width as the buttons */
+  height: 2px;
+  background-color: #ffd700;  /* Gold underline */
+  margin-top: 5px;  /* Adjusted to place the underline closer */
+  position: static; /* Make sure underline stays visible */
+  flex-shrink: 0; /* Prevents the underline from collapsing */
+}
+
+/* Collapse Button */
+.collapse-btn {
+  background: #800020; /* Romanesque red */
+  color: #ffd700; /* Gold text */
+  border: none;
+  cursor: pointer;
+  width: 90%;
+  padding: 10px 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.collapse-btn:hover {
+  background: #a40028; /* Slightly lighter red on hover */
+}
+
+/* Navigation Buttons */
+.button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;  /* Space between buttons */
+  width: 100%;
+  margin-top: 30px; /* To ensure there's space between buttons */
+  margin-bottom: 20px;
+}
+
+.nav-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 10px;
+}
+
+.left-frame.collapsed .nav-button span {
+  display: none; /* Hide text in collapsed mode */
+}
+
+.nav-button img {
+  width: 80px; /* Doubled width */
+  height: 80px; /* Doubled height */
+}
+
+/* Right Section */
+.right-section {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.top-frame {
+  background-color: #2b2b2b;
+  color: #fff;
+  text-align: center;
+  height: 62.5px;
+}
+
+.main-frame {
+  background-color: #eae7e2;
+  flex: 1;
+  padding: 20px;
+}
+
+.top-frame {
+    padding-right: 20px; /* Adjust the value to your preference */
+}
+
+.nav-button img {
+    border-radius: 10px; /* Adjust the value for desired roundness */
+}
+
+.nav-button {
+    text-decoration: none; /* Removes underline for links */
+    color: inherit; /* Ensures consistent color */
+}
+
+.nav-button:visited {
+    color: inherit; /* Prevents color change after clicking */
+}
+
+.nav-button:hover {
+    text-decoration: none; /* Ensures no underline appears on hover */
+}
+
+/* General Reset */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+}
+
+/* Main Frame */
+.main-frame {
+  padding: 20px;
+  background-color: #fafafa;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+/* Nonprofit Categories */
+.nonprofit-categories {
+  margin-bottom: 30px;
+}
+
+.nonprofit-categories h3 {
+  font-size: 1.5em;
+  color: #800020; /* Romanesque red */
+  margin-bottom: 10px;
+}
+
+.nonprofit-categories ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.nonprofit-categories ul li {
+  margin-bottom: 8px;
+}
+
+.nonprofit-categories ul li a {
+  color: #800020;
+  text-decoration: none;
+}
+
+.nonprofit-categories ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Featured Nonprofits */
+.featured-nonprofits {
+  margin-bottom: 20px;
+}
+
+.featured-nonprofits h3 {
+  font-size: 1.5em;
+  color: #800020; /* Romanesque red */
+  margin-bottom: 15px;
+}
+
+.nonprofit-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.nonprofit-card {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: calc(50% - 10px); /* Adjust for grid spacing */
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.nonprofit-card img {
+  width: 100%;
+  height: auto;
+  border-bottom: 2px solid #800020; /* Romanesque red */
+}
+
+.nonprofit-card h4 {
+  font-size: 1.2em;
+  color: #800020; /* Romanesque red */
+  padding: 10px 15px;
+  margin: 0;
+}
+
+.nonprofit-card p {
+  font-size: 0.95em;
+  padding: 0 15px 15px 15px;
+  margin: 0;
+}
+
+.nonprofit-card .read-more-btn {
+  display: block;
+  background-color: #800020;
+  color: #fff;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-top: 1px solid #ccc;
+  font-size: 1em;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.nonprofit-card .read-more-btn:hover {
+  background-color: #a40028; /* Lighter Romanesque red */
+}
+
+/* Styling for Boycott Page */
+.boycott-content {
+  padding: 20px;
+  background-color: #eae7e2; /* Light complementary background */
+  border-radius: 10px;
+}
+
+.boycott-content .top-buttons {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.boycott-content button {
+  background-color: #800020; /* Romanesque red */
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.boycott-content button:hover {
+  background-color: #a40028; /* Lighter red for hover effect */
+}
+
+.business-search {
+  margin: 10px 0;
+}
+
+.business-search input {
+  width: 320px;            /* adjust if you want wider/narrower */
+  max-width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #999;
+  border-radius: 999px;    /* rounded edges */
+  outline: none;
+}
+
+/* ===== Mobile Menu Button ===== */
+.mobile-toggle {
+  display: none;
+}
+
+/* ===== Responsive Layout ===== */
+@media (max-width: 768px) {
+
+  /* Show hamburger button */
+  .mobile-toggle {
+    display: block;
+    position: fixed;
+    top: 12px;
+    left: 12px;
+    z-index: 2000;
+    font-size: 22px;
+    border: none;
+    padding: 10px 14px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  /* Sidebar becomes slide-in drawer */
+  .left-frame {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 280px;           /* adjust if you want */
+    z-index: 1999;
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+    overflow-y: auto;
+  }
+
+  /* When open */
+  .left-frame.mobile-open {
+    transform: translateX(0);
+  }
+
+  /* Main content takes full width */
+  .right-section {
+    width: 100%;
+    margin-left: 0 !important;
+  }
+
+  .container {
+    display: block;         /* stack layout */
+  }
+
+  /* Give content breathing room */
+  .main-frame {
+    margin: 70px 12px 12px 12px; /* space for hamburger */
+    width: auto;
+  }
+
+  /* Make dropdown/search fit */
+  .business-search input,
+  .business-dropdown select {
+    width: 100%;
+    max-width: 100%;
+  }
+}

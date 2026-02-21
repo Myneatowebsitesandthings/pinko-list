@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PinkoList - Business</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<button id="mobile-toggle" class="mobile-toggle" aria-label="Open menu">☰</button>
+<div class="container">
+
+    <!-- LEFT FRAME -->
+    <div id="left-frame" class="left-frame">
+
+        <div class="logo-placeholder">
+            <img src="logo.png" alt="Logo" class="logo-image">
+        </div>
+
+        <div class="underline"></div>
+
+        <div class="button-container">
+            <a href="boycott.html" class="nav-button">
+                <img src="boycottbutton.png">
+                <span>Boycott</span>
+            </a>
+
+            <a href="government.html" class="nav-button">
+                <img src="governmentbutton.png">
+                <span>Government</span>
+            </a>
+
+            <a href="news.html" class="nav-button">
+                <img src="newsbutton.png">
+                <span>News</span>
+            </a>
+
+            <a href="states.html" class="nav-button">
+                <img src="statesbutton.png">
+                <span>States</span>
+            </a>
+
+            <a href="school.html" class="nav-button">
+                <img src="schoolbutton.png">
+                <span>School</span>
+            </a>
+
+            <a href="nonprofit.html" class="nav-button">
+                <img src="nonprofitbutton.png">
+                <span>Nonprofits</span>
+            </a>
+        </div>
+
+        <button id="collapse-btn" class="collapse-btn">⏪</button>
+
+    </div>
+
+
+    <!-- RIGHT SECTION -->
+    <div class="right-section">
+
+        <div class="top-frame">
+            <h1 class="site-title">Pinko List</h1>
+        </div>
+
+        <div class="main-frame boycott-content">
+
+            <h2>Select a Business</h2>
+
+            <div class="business-search" id="businessSearchWrap" style="display:none;">
+                <input type="text" id="businessSearch" placeholder="Search company or brand...">
+            </div>
+
+            <div class="business-dropdown">
+                <select id="businessSelect">
+                    <option value="">Choose a business...</option>
+                </select>
+            </div>
+
+            <div class="business-info">
+                <h3 id="businessName"></h3>
+                <p id="businessDescription"></p>
+            </div>
+
+
+            <!-- DETAILS SECTION -->
+            <div class="business-details">
+
+                <div class="subsidiaries">
+                    <h4>Subsidiaries</h4>
+                    <div id="subsidiariesList" class="subsidiaries-list"></div>
+                </div>
+
+                <div class="issues">
+                    <h4>Issues Supported</h4>
+                    <div id="issuesList" class="issues-list"></div>
+                </div>
+
+                <div class="people">
+                    <h4>Associated People</h4>
+                    <div id="peopleList" class="people-list"></div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+<script src="business.js?v=1"></script>
+
+</body>
+</html>

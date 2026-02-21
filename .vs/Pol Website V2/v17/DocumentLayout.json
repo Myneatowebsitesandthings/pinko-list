@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Computer\\Documents\\Pol Website V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott-business.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:boycott-business.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\business.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:business.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott-issues.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:boycott-issues.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\states.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:states.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\school.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:school.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\nonprofit.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nonprofit.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\news.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:news.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\header.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:header.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\government.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:government.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:boycott.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott-people.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:boycott-people.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "business.js",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\business.js",
+              "RelativeDocumentMoniker": "business.js",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\business.js",
+              "RelativeToolTip": "business.js",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-19T18:36:25.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "states.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\states.html",
+              "RelativeDocumentMoniker": "states.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\states.html",
+              "RelativeToolTip": "states.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:41:06.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "school.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\school.html",
+              "RelativeDocumentMoniker": "school.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\school.html",
+              "RelativeToolTip": "school.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:40:35.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nonprofit.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\nonprofit.html",
+              "RelativeDocumentMoniker": "nonprofit.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\nonprofit.html",
+              "RelativeToolTip": "nonprofit.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:39:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "news.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\news.html",
+              "RelativeDocumentMoniker": "news.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\news.html",
+              "RelativeToolTip": "news.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:39:28.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "header.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\header.html",
+              "RelativeDocumentMoniker": "header.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\header.html",
+              "RelativeToolTip": "header.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:39:14.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "government.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\government.html",
+              "RelativeDocumentMoniker": "government.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\government.html",
+              "RelativeToolTip": "government.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:38:47.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "boycott.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott.html",
+              "RelativeDocumentMoniker": "boycott.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott.html",
+              "RelativeToolTip": "boycott.html",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:38:24.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "boycott-people.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott-people.html",
+              "RelativeDocumentMoniker": "boycott-people.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott-people.html",
+              "RelativeToolTip": "boycott-people.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:38:20.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "boycott-issues.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott-issues.html",
+              "RelativeDocumentMoniker": "boycott-issues.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott-issues.html",
+              "RelativeToolTip": "boycott-issues.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:38:14.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "boycott-business.html",
+              "DocumentMoniker": "C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott-business.html",
+              "RelativeDocumentMoniker": "boycott-business.html",
+              "ToolTip": "C:\\Users\\Computer\\Documents\\Pol Website V2\\boycott-business.html",
+              "RelativeToolTip": "boycott-business.html",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-24T23:34:42.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
