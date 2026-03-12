@@ -1,0 +1,57 @@
+# ===============================
+# ADMIN / DEVELOPMENT FILES
+# ===============================
+
+admin-83921x.html
+server.js
+server-admin.js
+
+# ===============================
+# DATABASE FILES
+# ===============================
+
+db.sqlite
+*.sqlite
+
+# ===============================
+# SQL SETUP FILES
+# ===============================
+
+schema.sql
+seed.sql
+
+# ===============================
+# PYTHON SCRIPTS
+# ===============================
+
+*.py
+
+# ===============================
+# NODE DEVELOPMENT FILES
+# ===============================
+
+node_modules/
+package.json
+package-lock.json
+
+# ===============================
+# RAW / BACKUP DATA
+# ===============================
+
+companies_v1.json
+raw_companies.json
+*_backup.json
+*_temp.json
+
+# ===============================
+# ENVIRONMENT FILES
+# ===============================
+
+.env
+
+# ===============================
+# OPERATING SYSTEM JUNK
+# ===============================
+
+.DS_Store
+Thumbs.db
