@@ -1,0 +1,298 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PinkoList - Boycott Issues</title>
+  <link rel="stylesheet" href="styles.css?v=2">
+  <style>
+    .boycott-subnav {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .boycott-subnav a,
+    .boycott-subnav span {
+      min-width: 140px;
+      text-align: center;
+      padding: 12px 18px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: bold;
+      display: inline-block;
+    }
+
+    .boycott-subnav a {
+      background: #b22222;
+      color: white;
+    }
+
+    .boycott-subnav span.active-nav {
+      background: #7a1111;
+      color: white;
+      cursor: default;
+    }
+
+    .issue-dropdown-wrapper {
+      position: relative;
+      max-width: 420px;
+      margin-bottom: 20px;
+    }
+
+    .issue-dropdown-input {
+      width: 100%;
+      padding: 12px 16px;
+      border: 1px solid #aaa;
+      border-radius: 22px;
+      font-size: 16px;
+      box-sizing: border-box;
+    }
+
+    .issue-dropdown-list {
+      position: absolute;
+      top: 48px;
+      left: 0;
+      right: 0;
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 14px;
+      max-height: 260px;
+      overflow-y: auto;
+      display: none;
+      z-index: 1000;
+      box-sizing: border-box;
+    }
+
+    .issue-option {
+      padding: 10px 14px;
+      cursor: pointer;
+    }
+
+    .issue-option:hover {
+      background: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+
+  <button id="mobile-toggle" class="mobile-toggle">☰</button>
+
+  <div class="container">
+
+    <!-- Left Frame -->
+    <div id="left-frame" class="left-frame">
+      <div class="logo-placeholder">
+        <img src="logo.png" alt="Logo" class="logo-image">
+      </div>
+
+      <div class="underline"></div>
+
+      <div class="button-container">
+        <a href="boycott.html" class="nav-button">
+          <img src="boycottbutton.png" alt="Boycott Button">
+          <span>Boycott</span>
+        </a>
+        <a href="government.html" class="nav-button">
+          <img src="governmentbutton.png" alt="Government Button">
+          <span>Government</span>
+        </a>
+        <a href="news.html" class="nav-button">
+          <img src="newsbutton.png" alt="News Button">
+          <span>News</span>
+        </a>
+        <a href="states.html" class="nav-button">
+          <img src="statesbutton.png" alt="States Button">
+          <span>States</span>
+        </a>
+        <a href="school.html" class="nav-button">
+          <img src="schoolbutton.png" alt="School Button">
+          <span>School</span>
+        </a>
+        <a href="nonprofit.html" class="nav-button">
+          <img src="nonprofitbutton.png" alt="Nonprofit Button">
+          <span>Nonprofits</span>
+        </a>
+      </div>
+
+      <button id="collapse-btn" class="collapse-btn">⏪</button>
+    </div>
+
+    <!-- Right Section -->
+    <div class="right-section">
+      <div class="top-frame">
+        <h1 class="site-title" style="text-align: right;">Pinko List</h1>
+      </div>
+
+      <div class="main-frame boycott-content">
+
+        <!-- Boycott Sub Navigation -->
+        <div class="top-buttons">
+            <a href="boycott-business.html"><button>Business</button></a>
+            <button class="active-top-button">Issues</button>
+            <a href="boycott-people.html"><button>People</button></a>
+        </div>
+
+        <h2>Select an Issue</h2>
+
+        <div class="issue-dropdown-wrapper">
+          <input
+            type="text"
+            id="issueSearch"
+            class="issue-dropdown-input"
+            placeholder="Search or select issue..."
+            autocomplete="off"
+          >
+          <div id="issueDropdownList" class="issue-dropdown-list"></div>
+        </div>
+
+        <div class="business-info">
+          <h3 id="issueName"></h3>
+          <p id="issueDescription"></p>
+        </div>
+
+        <div class="business-details">
+
+          <div class="subsidiaries">
+            <h4>Companies</h4>
+            <div id="issueCompaniesList" class="subsidiaries-list"></div>
+          </div>
+
+          <div class="issues">
+            <h4>Brands</h4>
+            <div id="issueBrandsList" class="subsidiaries-list"></div>
+          </div>
+
+          <div class="people">
+            <h4>Associated People</h4>
+            <div id="issuePeopleList" class="subsidiaries-list"></div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js?v=2"></script>
+  <script>
+    let issuesData = [];
+    let filteredIssues = [];
+
+    const searchInput = document.getElementById("issueSearch");
+    const dropdownList = document.getElementById("issueDropdownList");
+
+    const issueName = document.getElementById("issueName");
+    const issueDescription = document.getElementById("issueDescription");
+    const issueCompaniesList = document.getElementById("issueCompaniesList");
+    const issueBrandsList = document.getElementById("issueBrandsList");
+    const issuePeopleList = document.getElementById("issuePeopleList");
+
+    fetch("issues.json")
+      .then(response => response.json())
+      .then(data => {
+        issuesData = data.sort((a, b) => a.name.localeCompare(b.name));
+        filteredIssues = issuesData;
+      })
+      .catch(error => console.error("Error loading issues.json:", error));
+
+    function renderDropdown(list) {
+      dropdownList.innerHTML = "";
+
+      if (list.length === 0) {
+        const item = document.createElement("div");
+        item.className = "issue-option";
+        item.textContent = "No matching issues.";
+        dropdownList.appendChild(item);
+        dropdownList.style.display = "block";
+        return;
+      }
+
+      list.forEach(issue => {
+        const item = document.createElement("div");
+        item.className = "issue-option";
+        item.textContent = issue.name;
+
+        item.addEventListener("click", function () {
+          selectIssue(issue);
+        });
+
+        dropdownList.appendChild(item);
+      });
+
+      dropdownList.style.display = "block";
+    }
+
+    function selectIssue(issue) {
+      searchInput.value = issue.name;
+      dropdownList.style.display = "none";
+      displayIssue(issue);
+    }
+
+    function displayIssue(issue) {
+      issueName.textContent = issue.name || "";
+      issueDescription.textContent = issue.description || "No description available.";
+
+      issueCompaniesList.innerHTML = "";
+      issueBrandsList.innerHTML = "";
+      issuePeopleList.innerHTML = "";
+
+      if (issue.companies && issue.companies.length > 0) {
+        issue.companies.forEach(company => {
+          const p = document.createElement("p");
+          p.textContent = company;
+          issueCompaniesList.appendChild(p);
+        });
+      } else {
+        issueCompaniesList.innerHTML = "<p>No companies listed yet.</p>";
+      }
+
+      if (issue.brands && issue.brands.length > 0) {
+        issue.brands.forEach(brand => {
+          const p = document.createElement("p");
+          p.textContent = brand;
+          issueBrandsList.appendChild(p);
+        });
+      } else {
+        issueBrandsList.innerHTML = "<p>No brands listed yet.</p>";
+      }
+
+      if (issue.people && issue.people.length > 0) {
+        issue.people.forEach(person => {
+          const p = document.createElement("p");
+          p.textContent = person;
+          issuePeopleList.appendChild(p);
+        });
+      } else {
+        issuePeopleList.innerHTML = "<p>No associated people yet.</p>";
+      }
+    }
+
+    searchInput.addEventListener("focus", function () {
+      renderDropdown(issuesData);
+    });
+
+    searchInput.addEventListener("input", function () {
+      const term = this.value.trim().toLowerCase();
+
+      filteredIssues = issuesData.filter(issue =>
+        issue.name.toLowerCase().includes(term)
+      );
+
+      renderDropdown(filteredIssues);
+
+      if (filteredIssues.length === 1) {
+        displayIssue(filteredIssues[0]);
+      }
+    });
+
+    document.addEventListener("click", function (e) {
+      if (!e.target.closest(".issue-dropdown-wrapper")) {
+        dropdownList.style.display = "none";
+      }
+    });
+  </script>
+<script src="issues.js"></script>
+</body>
+</html>

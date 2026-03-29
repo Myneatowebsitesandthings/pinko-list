@@ -66,16 +66,27 @@
 
         <div class="main-frame boycott-content">
 
-            <h2>Select a Business</h2>
+            <div class="top-buttons">
 
-            <div class="business-search" id="businessSearchWrap" style="display:none;">
-                <input type="text" id="businessSearch" placeholder="Search company or brand...">
+                <button class="active-top-button">
+                    Business
+                </button>
+
+                <a href="boycott-issues.html">
+                 <button>Issues</button>
+                </a>
+
+                <a href="boycott-people.html">
+                    <button>People</button>
+                </a>
+
             </div>
 
-            <div class="business-dropdown">
-                <select id="businessSelect">
-                    <option value="">Choose a business...</option>
-                </select>
+            <h2>Select a Business</h2>
+
+            <div class="business-search-wrap">
+                <input type="text" id="businessSearch" placeholder="Search company or brand..." autocomplete="off">
+                <div id="businessResults" class="business-results"></div>
             </div>
 
             <div class="business-info">

@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PinkoList - People</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div class="container">
+
+  <!-- LEFT SIDEBAR -->
+  <div id="left-frame" class="left-frame">
+
+    <div class="logo-placeholder">
+      <img src="logo.png" alt="Logo" class="logo-image">
+    </div>
+
+    <div class="underline"></div>
+
+    <div class="button-container">
+
+      <a href="boycott.html" class="nav-button">
+        <img src="boycottbutton.png">
+        <span>Boycott</span>
+      </a>
+
+      <a href="government.html" class="nav-button">
+        <img src="governmentbutton.png">
+        <span>Government</span>
+      </a>
+
+      <a href="news.html" class="nav-button">
+        <img src="newsbutton.png">
+        <span>News</span>
+      </a>
+
+      <a href="states.html" class="nav-button">
+        <img src="statesbutton.png">
+        <span>States</span>
+      </a>
+
+      <a href="school.html" class="nav-button">
+        <img src="schoolbutton.png">
+        <span>School</span>
+      </a>
+
+      <a href="nonprofit.html" class="nav-button">
+        <img src="nonprofitbutton.png">
+        <span>Nonprofits</span>
+      </a>
+
+    </div>
+
+    <button id="collapse-btn" class="collapse-btn">⏪</button>
+
+  </div>
+
+  <!-- RIGHT SIDE -->
+  <div class="right-section">
+
+    <div class="top-frame">
+      <h1 style="text-align:right;">Pinko List</h1>
+    </div>
+
+    <div class="main-frame boycott-content">
+
+      <!-- TOP BUTTONS -->
+      <div class="top-buttons">
+
+        <a href="boycott-business.html">
+          <button>Business</button>
+        </a>
+
+        <a href="boycott-issues.html">
+          <button>Issues</button>
+        </a>
+
+        <button class="active-top-button">
+          People
+        </button>
+
+      </div>
+
+      <!-- CONTENT -->
+      <h2>Select a Person</h2>
+
+      <div class="business-search-wrap">
+        <input type="text" id="personSearch" placeholder="Search people..." autocomplete="off">
+        <div id="personResults" class="business-results"></div>
+      </div>
+
+      <div class="business-info">
+         <h3 id="personName">Person Name</h3>
+         <p id="personDescription"></p>
+      </div>
+
+      <div class="business-details">
+
+        <div class="issues">
+          <h4>Associated Issues</h4>
+          <div id="personIssues"
+          class="issues-list"></div>
+        </div>
+
+        <div class="people">
+          <h4>Associated Companies</h4>
+          <div id="personCompanies"
+          class="people-list"></div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+</div>
+<script src="people.js"></script>
+
+</body>
+</html>

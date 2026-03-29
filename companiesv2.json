@@ -45,13 +45,7 @@
     "slug": "accenture",
     "description": "Accenture plc is a multinational technology consulting company headquartered in Dublin, Ireland.[3][4] Founded in 1989, Accenture provides information technology and management consulting services across 120 countries globally.[3]",
     "brands": [],
-    "other_companies": [
-      "Avanade",
-      "Droga5",
-      "Udacity",
-      "TalentSprint",
-      "Faculty"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -59,7 +53,7 @@
     "id": 6,
     "name": "Adobe Inc.",
     "slug": "adobe-inc",
-    "description": "Adobe Inc. (/\u0259\u02c8do\u028abi/ \u24d8 \u0259-DOH-bee), formerly Adobe Systems Incorporated, is an American multinational computer software company based in San Jose, California. It offers a wide range of programs from web design tools, photo manipulation and vector creation, through to video/audio editing, mobile app development, print layout and animation software.",
+    "description": "Adobe Inc. (/əˈdoʊbi/ ⓘ ə-DOH-bee), formerly Adobe Systems Incorporated, is an American multinational computer software company based in San Jose, California. It offers a wide range of programs from web design tools, photo manipulation and vector creation, through to video/audio editing, mobile app development, print layout and animation software.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -89,7 +83,7 @@
     "id": 9,
     "name": "Aflac",
     "slug": "aflac",
-    "description": "Aflac Incorporated /\u02c8\u00e6fl\u00e6k/ (American Family Life Assurance Company) is an American insurance company and is the largest provider of supplemental insurance in the United States.[3] It was founded in 1955 and is based in Columbus, Georgia. In the U.S., it underwrites a wide range of insurance policies, but is perhaps more known for its payroll deduction insurance coverage, which pays cash benefits when a policyholder has a covered accident or illness. The company states it \"provides financial protection to more than 50 million people worldwide\".[4]",
+    "description": "Aflac Incorporated /ˈæflæk/ (American Family Life Assurance Company) is an American insurance company and is the largest provider of supplemental insurance in the United States.[3] It was founded in 1955 and is based in Columbus, Georgia. In the U.S., it underwrites a wide range of insurance policies, but is perhaps more known for its payroll deduction insurance coverage, which pays cash benefits when a policyholder has a covered accident or illness. The company states it \"provides financial protection to more than 50 million people worldwide\".[4]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -119,20 +113,9 @@
     "id": 12,
     "name": "Airbnb",
     "slug": "airbnb",
-    "description": "Airbnb, Inc. (/\u02cc\u025b\u0259rbi\u02d0\u025bn\u02c8bi\u02d0/ AIR-bee-en-BEE, an abbreviation of its original name, \"Air Bed and Breakfast\"[5]) is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. It acts as a broker and charges a commission from each booking. Airbnb was founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia.[6][7]",
+    "description": "Airbnb, Inc. (/ˌɛərbiːɛnˈbiː/ AIR-bee-en-BEE, an abbreviation of its original name, \"Air Bed and Breakfast\"[5]) is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. It acts as a broker and charges a commission from each booking. Airbnb was founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia.[6][7]",
     "brands": [],
-    "other_companies": [
-      "Luxury Retreats International Inc.",
-      "Tilt.com",
-      "Accomable",
-      "Aibiying",
-      "Trooly, Inc.",
-      "Deco Software Inc.",
-      "Trip4real Experiences, S.L.",
-      "Larson8, Inc.",
-      "MarketLog, Randorphire Inc.",
-      "HotelTonight"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -192,10 +175,7 @@
     "slug": "alliant-energy",
     "description": "Alliant Energy Corporation is a public utility holding company headquartered in Madison, Wisconsin, providing power in Iowa and Wisconsin.",
     "brands": [],
-    "other_companies": [
-      "Interstate Power & Light",
-      "Wisconsin Power & Light"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -205,15 +185,7 @@
     "slug": "allstate",
     "description": "The Allstate Corporation is an American insurance company, headquartered in Glenview, Illinois (with a Northbrook, Illinois address) since 2022.[4] Founded in 1931 as part of Sears, Roebuck and Co., it was spun off in 1993, but was still partially owned by Sears until it became an independent company completely in June 1995.[2]  The company also has personal line insurance operations in Canada.",
     "brands": [],
-    "other_companies": [
-      "Encompass Insurance Company",
-      "Esurance",
-      "SquareTrade",
-      "Allstate Identity Protection (formerly InfoArmor, Inc.)",
-      "Allstate India",
-      "Allstate Northern Ireland",
-      "National General Insurance"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -223,17 +195,7 @@
     "slug": "alphabet-incclass-a",
     "description": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015,[2] and became the parent holding company of Google and several former Google subsidiaries.[3][4][5] Alphabet is listed on the large-cap section of the Nasdaq under the ticker symbols GOOGL and GOOG; both classes of stock are components of major stock market indices such as the S&P 500 and Nasdaq-100. Alphabet has been described as a Big Tech company.",
     "brands": [],
-    "other_companies": [
-      "Calico",
-      "CapitalG",
-      "Google",
-      "Google Fiber",
-      "GV",
-      "Isomorphic Labs",
-      "Verily",
-      "Waymo",
-      "Wing"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -243,17 +205,7 @@
     "slug": "alphabet-incclass-c",
     "description": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015,[2] and became the parent holding company of Google and several former Google subsidiaries.[3][4][5] Alphabet is listed on the large-cap section of the Nasdaq under the ticker symbols GOOGL and GOOG; both classes of stock are components of major stock market indices such as the S&P 500 and Nasdaq-100. Alphabet has been described as a Big Tech company.",
     "brands": [],
-    "other_companies": [
-      "Calico",
-      "CapitalG",
-      "Google",
-      "Google Fiber",
-      "GV",
-      "Isomorphic Labs",
-      "Verily",
-      "Waymo",
-      "Wing"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -263,14 +215,7 @@
     "slug": "altria",
     "description": "Altria Group, Inc. is an American corporation and one of the world's largest producers and marketers of tobacco, cigarettes, and medical products in the treatment of illnesses caused by tobacco. It operates worldwide and is headquartered in the city of Richmond, Virginia.[2]",
     "brands": [],
-    "other_companies": [
-      "Philip Morris USA",
-      "John Middleton, Inc.",
-      "U.S. Smokeless Tobacco Company",
-      "Helix Innovations",
-      "NJOY",
-      "Horizon Innovations LLC"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -280,36 +225,34 @@
     "slug": "amazon",
     "description": "Amazon.com, Inc.[1] (doing business as Amazon)[a] is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence.[5] Founded in 1994 by Jeff Bezos in Bellevue, Washington,[6] the company originally started as an online marketplace for books, but gradually expanded its offerings to include a wide range of product categories, referred to as \"The Everything Store\".[7] Amazon has been described as a Big Tech company.[8]",
     "brands": [],
-    "other_companies": [
-      "AbeBooks",
-      "Amazon.com",
-      "Amazon Air",
-      "Amazon Books",
-      "Amazon Fresh",
-      "Amazon Games",
-      "Amazon Lab126",
-      "Amazon Logistics",
-      "Amazon Pharmacy",
-      "Amazon Publishing",
-      "Amazon Robotics",
-      "Amazon MGM Studios",
-      "AWS",
-      "Audible",
-      "Blink",
-      "Body Labs",
-      "Brilliance Audio",
-      "Eero LLC",
-      "Goodreads",
-      "IMDb",
-      "Kuiper Systems",
-      "PillPack",
-      "Ring",
-      "Twitch Interactive",
-      "Whole Foods Market",
-      "Woot",
-      "Zappos",
-      "Zoox"
-    ],
+    "other_companies": ["AbeBooks",
+            "Amazon.com",
+            "Amazon Air",
+            "Amazon Books",
+            "Amazon Fresh",
+            "Amazon Games",
+            "Amazon Lab126",
+            "Amazon Logistics",
+            "Amazon Pharmacy",
+            "Amazon Publishing",
+            "Amazon Robotics",
+            "Amazon MGM Studios",
+            "AWS",
+            "Audible",
+            "Blink",
+            "Body Labs",
+            "Brilliance Audio",
+            "Eero LLC",
+            "Goodreads",
+            "IMDb",
+            "Kuiper Systems",
+            "PillPack",
+            "Ring",
+            "Twitch Interactive",
+            "Whole Foods Market",
+            "Woot",
+            "Zappos",
+            "Zoox"],
     "issues": [],
     "people": []
   },
@@ -337,7 +280,7 @@
     "id": 26,
     "name": "American Electric Power",
     "slug": "american-electric-power",
-    "description": "American Electric Power Company, Inc. (AEP; railcar reporting mark: AEPX) is an American domestic electric utility company in the United States. It is one of the largest electric utility companies in the country, with more than five\u00a0million customers in 11 states.[2]",
+    "description": "American Electric Power Company, Inc. (AEP; railcar reporting mark: AEPX) is an American domestic electric utility company in the United States. It is one of the largest electric utility companies in the country, with more than five million customers in 11 states.[2]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -349,17 +292,7 @@
     "slug": "american-express",
     "description": "American Express Company[7] or Amex is an American bank holding company and multinational financial services corporation that specializes in payment cards. It is headquartered at 200 Vesey Street, also known as American Express Tower, in the Battery Park City neighborhood of Lower Manhattan.",
     "brands": [],
-    "other_companies": [
-      "American Express Global Business Travel(33.54%)[1]",
-      "Resy",
-      "American Express National Bank",
-      "American Express Ventures",
-      "American Express International, Inc.",
-      "American Express Centurion Bank",
-      "American Express Bank, FSB",
-      "American Express Credit Corporation",
-      "American Express Travel Related Services Company, Inc."
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -367,7 +300,7 @@
     "id": 28,
     "name": "American International Group",
     "slug": "american-international-group",
-    "description": "American International Group, Inc. (AIG) is an American multinational finance and insurance corporation with operations in more than 80 countries and jurisdictions.[5]:\u200a8\u200a As of 2023, AIG employed 25,200 people.[6] The company operates through three core businesses: general insurance, life & retirement, and a standalone technology-enabled subsidiary.[7][8][9] General Insurance includes Commercial, Personal Insurance, U.S. and International field operations. Life & Retirement includes Group Retirement, Individual Retirement, Life, and Institutional Markets.[7][8][9]\nAIG is the title sponsor of the AIG Women's Open golf tournament. In 2023, for the sixth consecutive year, DiversityInc named AIG among the Top 50 Companies for Diversity list.[10]",
+    "description": "American International Group, Inc. (AIG) is an American multinational finance and insurance corporation with operations in more than 80 countries and jurisdictions.[5]: 8  As of 2023, AIG employed 25,200 people.[6] The company operates through three core businesses: general insurance, life & retirement, and a standalone technology-enabled subsidiary.[7][8][9] General Insurance includes Commercial, Personal Insurance, U.S. and International field operations. Life & Retirement includes Group Retirement, Individual Retirement, Life, and Institutional Markets.[7][8][9]\nAIG is the title sponsor of the AIG Women's Open golf tournament. In 2023, for the sixth consecutive year, DiversityInc named AIG among the Top 50 Companies for Diversity list.[10]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -399,10 +332,7 @@
     "slug": "ameriprise-financial",
     "description": "Ameriprise Financial, Inc. is an American diversified financial services company and bank holding company based in Minneapolis, Minnesota.[1] It provides financial planning products and services, including wealth management, asset management, insurance, annuities, and estate planning.[1]",
     "brands": [],
-    "other_companies": [
-      "Columbia Threadneedle Investments",
-      "RiverSource Life Insurance Company"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -450,7 +380,7 @@
     "id": 36,
     "name": "Aon plc",
     "slug": "aon-plc",
-    "description": "Aon plc (English: /\u02c8e\u026a\u0252n/) is a British-American[3] professional services firm. The company operates two divisions: Risk Capital (67% of 2024 revenues), which provides brokerage and consulting services for risk management and insurance and reinsurance, and Human Capital (33% of 2024 revenues), which provides services for health insurance, retirement plans, pension plans, and talent advisory.[2]",
+    "description": "Aon plc (English: /ˈeɪɒn/) is a British-American[3] professional services firm. The company operates two divisions: Risk Capital (67% of 2024 revenues), which provides brokerage and consulting services for risk management and insurance and reinsurance, and Human Capital (33% of 2024 revenues), which provides services for health insurance, retirement plans, pension plans, and talent advisory.[2]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -482,15 +412,7 @@
     "slug": "apple-inc",
     "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer electronics, software and online services. Founded in 1976 as Apple Computer Company by Steve Jobs, Steve Wozniak and Ronald Wayne, the company was incorporated by Jobs and Wozniak as Apple Computer, Inc. the following year. It was renamed to its current name in 2007 as the company had expanded its focus from computers to consumer electronics. Apple is one of the Big Tech companies.",
     "brands": [],
-    "other_companies": [
-      "Apple Financing[1]",
-      "Apple Studios",
-      "Beats Electronics",
-      "Beddit",
-      "Braeburn Capital",
-      "Claris",
-      "Globalstar(20%)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -588,7 +510,7 @@
     "id": 49,
     "name": "AT&T",
     "slug": "att",
-    "description": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company,[5] is an American multinational telecommunications conglomerate headquartered at the Whitacre Tower in Downtown Dallas, Texas.[6] AT&T is the world\u2019s third-largest telecommunications company by revenue, the third largest wireless carrier in the United States behind T-Mobile and Verizon, and the nation's biggest fiber internet provider.[7] On the New York Stock Exchange, AT&T trades under the ticker symbol \u201cT,\u201d and has a market capitalization of $186.83 billion. On the Fortune 500 (2025) AT&T ranked 37th among the largest American businesses and reported revenues of $125.6 billion last year.",
+    "description": "AT&T Inc., an abbreviation of its predecessor's original name, the American Telephone and Telegraph Company,[5] is an American multinational telecommunications conglomerate headquartered at the Whitacre Tower in Downtown Dallas, Texas.[6] AT&T is the world’s third-largest telecommunications company by revenue, the third largest wireless carrier in the United States behind T-Mobile and Verizon, and the nation's biggest fiber internet provider.[7] On the New York Stock Exchange, AT&T trades under the ticker symbol “T,” and has a market capitalization of $186.83 billion. On the Fortune 500 (2025) AT&T ranked 37th among the largest American businesses and reported revenues of $125.6 billion last year.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -668,7 +590,7 @@
     "id": 57,
     "name": "Baker Hughes",
     "slug": "baker-hughes",
-    "description": "Baker Hughes Company is an American global energy technology company co-headquartered in Houston, Texas and London, UK. As one of the world's largest oil field services,\u00a0industrial and energy technology companies, it provides products and services to the oil and gas industry for exploration and production, as well as other energy and industrial applications.\u00a0It operates in over 120 countries, with facilities in Australia, Brazil, Singapore, Malaysia, India, Dubai, Saudi Arabia, Italy, Germany, Norway, the United Kingdom, Namibia, Nigeria and the United States.",
+    "description": "Baker Hughes Company is an American global energy technology company co-headquartered in Houston, Texas and London, UK. As one of the world's largest oil field services, industrial and energy technology companies, it provides products and services to the oil and gas industry for exploration and production, as well as other energy and industrial applications. It operates in over 120 countries, with facilities in Australia, Brazil, Singapore, Malaysia, India, Dubai, Saudi Arabia, Italy, Germany, Norway, the United Kingdom, Namibia, Nigeria and the United States.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -718,7 +640,7 @@
     "id": 62,
     "name": "Berkshire Hathaway",
     "slug": "berkshire-hathaway",
-    "description": "Berkshire Hathaway Inc. (/\u02c8b\u025c\u02d0rk\u0283\u0259r/) is an American multinational conglomerate holding company headquartered in Omaha, Nebraska. Originally a textile manufacturer, the company transitioned into a conglomerate starting in 1965 under the management of chairman and CEO Warren Buffett (from 1970 to 2025) and vice chairman Charlie Munger (from 1978 to 2023). Greg Abel succeeded Buffett as CEO at the beginning of 2026.[5] Buffett personally owns 38.4% of the Class A voting shares of Berkshire Hathaway, representing a 15.1% overall economic interest in the company.[4]",
+    "description": "Berkshire Hathaway Inc. (/ˈbɜːrkʃər/) is an American multinational conglomerate holding company headquartered in Omaha, Nebraska. Originally a textile manufacturer, the company transitioned into a conglomerate starting in 1965 under the management of chairman and CEO Warren Buffett (from 1970 to 2025) and vice chairman Charlie Munger (from 1978 to 2023). Greg Abel succeeded Buffett as CEO at the beginning of 2026.[5] Buffett personally owns 38.4% of the Class A voting shares of Berkshire Hathaway, representing a 15.1% overall economic interest in the company.[4]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -730,14 +652,7 @@
     "slug": "best-buy",
     "description": "Best Buy Co., Inc. is an American multinational consumer electronics retailer headquartered in Richfield, Minnesota. Originally founded by Richard M. Schulze and James Wheeler in 1966 as an audio specialty store called Sound of Music, it was rebranded under its current name with an emphasis on consumer electronics in 1983.",
     "brands": [],
-    "other_companies": [
-      "Best Buy Mobile",
-      "Best Buy Express",
-      "Geek Squad",
-      "Lively",
-      "Magnolia Home Theater",
-      "Pacific Sales"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -767,11 +682,7 @@
     "slug": "blackrock",
     "description": "BlackRock, Inc. is an American multinational investment company. Founded in 1988, initially as an enterprise risk management and fixed income institutional asset manager, BlackRock is the world's largest asset manager,[1] with $12.5 trillion in assets under management as of 2025.[4] Headquartered in New York City, BlackRock has 70 offices in 30 countries and clients in 100 countries.[5]",
     "brands": [],
-    "other_companies": [
-      "iShares",
-      "Global Infrastructure Partners",
-      "HPS Investment Partners"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -791,13 +702,7 @@
     "slug": "block-inc",
     "description": "Block, Inc. (formerly Square, Inc.[12]) is an American technology company and a financial services provider for consumers and merchants.[13][14][15] Founded in 2009 by Jack Dorsey, it is the U.S. market leader in point-of-sale systems.[16][17][18] As of 2024, Block serves 57 million users and 4 million sellers,[19][20] processing $241 billion in payments annually.[4]",
     "brands": [],
-    "other_companies": [
-      "Square Fin. Services, Inc.",
-      "Afterpay Australia Pty Ltd",
-      "TIDAL Music AS",
-      "Aspiro AB",
-      "Clearpay Finance Ltd"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -815,19 +720,9 @@
     "id": 70,
     "name": "Boeing",
     "slug": "boeing",
-    "description": "The Boeing Company (/\u02c8bo\u028a\u026a\u014b/ BO-ing) is an American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, and missiles worldwide.[5] The company also provides leasing and product support services. Boeing is among the largest global aerospace manufacturers; it is the fourth-largest defense contractor in the world based on 2022 revenue[6] and is the largest exporter in the United States by dollar value.[7] Boeing was founded in 1916 by William E. Boeing in Seattle, Washington.[8] The present corporation is the result of the merger of Boeing with McDonnell Douglas on August 1, 1997.",
+    "description": "The Boeing Company (/ˈboʊɪŋ/ BO-ing) is an American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, and missiles worldwide.[5] The company also provides leasing and product support services. Boeing is among the largest global aerospace manufacturers; it is the fourth-largest defense contractor in the world based on 2022 revenue[6] and is the largest exporter in the United States by dollar value.[7] Boeing was founded in 1916 by William E. Boeing in Seattle, Washington.[8] The present corporation is the result of the merger of Boeing with McDonnell Douglas on August 1, 1997.",
     "brands": [],
-    "other_companies": [
-      "Aurora Flight Sciences",
-      "Boeing Australia",
-      "Boeing Canada",
-      "Boeing UK",
-      "Insitu",
-      "Jeppesen",
-      "Spectrolab",
-      "Spirit AeroSystems",
-      "Wisk Aero"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -865,7 +760,7 @@
     "id": 74,
     "name": "Broadcom",
     "slug": "broadcom",
-    "description": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings serve the data center, networking, software, broadband, wireless, storage, and industrial markets. As of 2025\u2014amid the AI boom\u2014Broadcom is one of the largest companies globally, and could be considered part of the Big Tech group and the Magnificent Seven,[4][5] replacing Tesla.[6]",
+    "description": "Broadcom Inc. is an American multinational designer, developer, manufacturer, and global supplier of a wide range of semiconductor and infrastructure software products. Broadcom's product offerings serve the data center, networking, software, broadband, wireless, storage, and industrial markets. As of 2025—amid the AI boom—Broadcom is one of the largest companies globally, and could be considered part of the Big Tech group and the Magnificent Seven,[4][5] replacing Tesla.[6]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -893,7 +788,7 @@
   },
   {
     "id": 77,
-    "name": "Brown\u2013Forman",
+    "name": "Brown–Forman",
     "slug": "brownforman",
     "description": "Brown-Forman Corporation is an American family-controlled publicly traded company, one of the largest in the spirits and wine business. Based in Louisville, Kentucky, it manufactures several well-known brands throughout the world, including Jack Daniel's, Old Forester, Woodford Reserve, GlenDronach, BenRiach, Glenglassaugh, Herradura, Korbel, and Chambord. Brown-Forman formerly owned Southern Comfort and Tuaca before selling them off in 2016.",
     "brands": [],
@@ -945,7 +840,7 @@
     "id": 82,
     "name": "Cadence Design Systems",
     "slug": "cadence-design-systems",
-    "description": "Cadence Design Systems, Inc. (stylized as c\u0101dence)[2] is an American multinational technology and computational software company[3] headquartered in San Jose, California.[2]  Initially specialized in electronic design automation (EDA) software for the semiconductor industry,[4] currently the company makes software and hardware for designing products such as integrated circuits, systems on chips (SoCs), printed circuit boards,[3] and pharmaceutical drugs, also licensing intellectual property for the electronics, aerospace, defense and automotive industries.[5]",
+    "description": "Cadence Design Systems, Inc. (stylized as cādence)[2] is an American multinational technology and computational software company[3] headquartered in San Jose, California.[2]  Initially specialized in electronic design automation (EDA) software for the semiconductor industry,[4] currently the company makes software and hardware for designing products such as integrated circuits, systems on chips (SoCs), printed circuit boards,[3] and pharmaceutical drugs, also licensing intellectual property for the electronics, aerospace, defense and automotive industries.[5]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -967,13 +862,7 @@
     "slug": "campbells-company-the",
     "description": "The Campbell's Company (doing business as Campbell's and formerly known as the Campbell Soup Company) is an American company, most closely associated with its flagship canned soup products. The classic red-and-white can design used by many Campbell's branded products has become an American icon, and its use in pop art was typified by American artist Andy Warhol's series of Campbell's Soup Cans prints.",
     "brands": [],
-    "other_companies": [
-      "Pepperidge Farm",
-      "Pace Foods",
-      "Snyder's-Lance",
-      "Pacific Foods",
-      "Sovos Brands"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -981,7 +870,7 @@
     "id": 85,
     "name": "Capital One",
     "slug": "capital-one",
-    "description": "Capital One Financial Corporation is an American bank holding company founded on July 21, 1994, and specializing in credit cards, auto loans, banking, and savings accounts, headquartered in Tysons, Virginia, with operations primarily in the United States.[2] It is the sixth-largest bank in the United States by total assets as of June\u00a030, 2025[update],[3] the third-largest issuer of Visa and Mastercard credit cards, and one of the largest car finance companies in the United States.",
+    "description": "Capital One Financial Corporation is an American bank holding company founded on July 21, 1994, and specializing in credit cards, auto loans, banking, and savings accounts, headquartered in Tysons, Virginia, with operations primarily in the United States.[2] It is the sixth-largest bank in the United States by total assets as of June 30, 2025[update],[3] the third-largest issuer of Visa and Mastercard credit cards, and one of the largest car finance companies in the United States.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -1013,9 +902,7 @@
     "slug": "carrier-global",
     "description": "Carrier Global Corporation is an American multinational heating, ventilation, and air conditioning (HVAC), refrigeration, and fire and security equipment corporation based in Palm Beach Gardens, Florida. Carrier was founded in 1915 as an independent company manufacturing and distributing HVAC systems, and has since expanded to include manufacturing commercial refrigeration and food service equipment, and fire and security technologies.",
     "brands": [],
-    "other_companies": [
-      "International Comfort Products"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1035,17 +922,7 @@
     "slug": "caterpillar-inc",
     "description": "Caterpillar Inc. is an American construction, mining, and other engineering equipment manufacturer.[6] The company is the world's largest manufacturer of construction equipment.[3][7][8]\nIn 2018, Caterpillar was ranked number 73 on the Fortune 500 list[9] and number 265 on the Global Fortune 500 list.[10] Caterpillar stock is a component of the Dow Jones Industrial Average.[11]",
     "brands": [],
-    "other_companies": [
-      "Caterpillar Financial Services",
-      "Caterpillar Insurance Holdings",
-      "Caterpillar Logistics Services",
-      "Caterpillar Marine Power Systems",
-      "FG Wilson",
-      "Perkins Engines",
-      "SPM Oil & Gas",
-      "Progress Rail",
-      "Solar Turbines"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1133,7 +1010,7 @@
     "id": 99,
     "name": "Charles Schwab Corporation",
     "slug": "charles-schwab-corporation",
-    "description": "The Charles Schwab Corporation[1] is an American multinational financial services company. It offers banking, commercial banking, investing and related services including consulting, and wealth management advisory services to both retail and institutional clients. It is on the list of largest banks in the United States by assets.[1] As of December\u00a031, 2024,[update] it had $10.10 trillion in client assets, 36.5 million active brokerage accounts, 5.4 million workplace retirement plan participant accounts, and 2.0 million banking accounts.[1] It also offers a donor advised fund for clients seeking to donate securities.[4][5] It was founded in San Francisco, California, and is headquartered in Westlake, Texas. It has over 380 branches, primarily in financial centers in the United States and the United Kingdom.",
+    "description": "The Charles Schwab Corporation[1] is an American multinational financial services company. It offers banking, commercial banking, investing and related services including consulting, and wealth management advisory services to both retail and institutional clients. It is on the list of largest banks in the United States by assets.[1] As of December 31, 2024,[update] it had $10.10 trillion in client assets, 36.5 million active brokerage accounts, 5.4 million workplace retirement plan participant accounts, and 2.0 million banking accounts.[1] It also offers a donor advised fund for clients seeking to donate securities.[4][5] It was founded in San Francisco, California, and is headquartered in Westlake, Texas. It has over 380 branches, primarily in financial centers in the United States and the United Kingdom.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -1155,10 +1032,7 @@
     "slug": "chevron-corporation",
     "description": "Chevron Corporation is an American multinational energy corporation predominantly specializing in oil and gas. The second-largest direct descendant of Standard Oil, and originally known as the Standard Oil Company of California (shortened to Socal or CalSo), it is active in more than 180 countries.",
     "brands": [],
-    "other_companies": [
-      "Chevron Phillips Chemical(50%)",
-      "Chevron Lubricants Lanka(51%)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1166,14 +1040,9 @@
     "id": 102,
     "name": "Chipotle Mexican Grill",
     "slug": "chipotle-mexican-grill",
-    "description": "Chipotle Mexican Grill, Inc. (/t\u0283\u026a\u02c8po\u028atle\u026a/ chih-POAT-lay),[3] often known simply as Chipotle, is an American multinational chain of fast casual restaurants specializing in bowls, tacos, and Mission burritos made to order in front of the customer.[4][5][6] As of December 2025, Chipotle has 4,000 locations.[7] Its name derives from chipotle, the Nahuatl name (from chilpoctli) for a smoked and dried jalape\u00f1o chili pepper.[8][9]",
+    "description": "Chipotle Mexican Grill, Inc. (/tʃɪˈpoʊtleɪ/ chih-POAT-lay),[3] often known simply as Chipotle, is an American multinational chain of fast casual restaurants specializing in bowls, tacos, and Mission burritos made to order in front of the customer.[4][5][6] As of December 2025, Chipotle has 4,000 locations.[7] Its name derives from chipotle, the Nahuatl name (from chilpoctli) for a smoked and dried jalapeño chili pepper.[8][9]",
     "brands": [],
-    "other_companies": [
-      "Pizzeria Locale(2013\u20132023)",
-      "ShopHouse Southeast Asian Kitchen(2012\u20132018)",
-      "Tasty Made(2016\u20132018)",
-      "Farmesa (2023\u20132024)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1181,7 +1050,7 @@
     "id": 103,
     "name": "Chubb Limited",
     "slug": "chubb-limited",
-    "description": "Chubb Limited is an American\u2013Swiss[2] company incorporated in Z\u00fcrich, and listed on the New York Stock Exchange (NYSE) where it is a component of the S&P 500.[3] Chubb is a global provider of insurance products covering property and casualty, accident and health, reinsurance, and life insurance and is the largest publicly traded property and casualty insurance company in the world.[4] Chubb operates in 55 countries and territories and in the Lloyd's insurance market in London. Clients of Chubb consist of multinational corporations and local businesses, individuals, and insurers seeking reinsurance coverage. Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance, and life insurance.",
+    "description": "Chubb Limited is an American–Swiss[2] company incorporated in Zürich, and listed on the New York Stock Exchange (NYSE) where it is a component of the S&P 500.[3] Chubb is a global provider of insurance products covering property and casualty, accident and health, reinsurance, and life insurance and is the largest publicly traded property and casualty insurance company in the world.[4] Chubb operates in 55 countries and territories and in the Lloyd's insurance market in London. Clients of Chubb consist of multinational corporations and local businesses, individuals, and insurers seeking reinsurance coverage. Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance, and life insurance.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -1201,7 +1070,7 @@
     "id": 105,
     "name": "Ciena",
     "slug": "ciena",
-    "description": "Ciena Corporation is an American optical networking systems and software company[4][5][6] based in Hanover, Maryland.[7][8] The company has been described as a vital player in optical connectivity.[9] The company reported revenues of $4.8 billion[1] and more than 9,000 employees, as of November\u00a02025[update].[1] Gary Smith serves as president and chief executive officer (CEO).[3][10]",
+    "description": "Ciena Corporation is an American optical networking systems and software company[4][5][6] based in Hanover, Maryland.[7][8] The company has been described as a vital player in optical connectivity.[9] The company reported revenues of $4.8 billion[1] and more than 9,000 employees, as of November 2025[update].[1] Gary Smith serves as president and chief executive officer (CEO).[3][10]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -1231,7 +1100,7 @@
     "id": 108,
     "name": "Cintas",
     "slug": "cintas",
-    "description": "Cintas Corporation (/\u02c8s\u026ant\u0251\u02d0z/) is an American corporation headquartered in Mason, Ohio, which provides a range of products and services to businesses including uniforms, mats, mops, cleaning and restroom supplies, first aid and safety products, fire extinguishers and testing, and safety courses.[4] Cintas is a publicly held company traded on the Nasdaq Global Select Market under the symbol CTAS and is a component of the S&P 500 Index.",
+    "description": "Cintas Corporation (/ˈsɪntɑːz/) is an American corporation headquartered in Mason, Ohio, which provides a range of products and services to businesses including uniforms, mats, mops, cleaning and restroom supplies, first aid and safety products, fire extinguishers and testing, and safety courses.[4] Cintas is a publicly held company traded on the Nasdaq Global Select Market under the symbol CTAS and is a component of the S&P 500 Index.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -1253,38 +1122,7 @@
     "slug": "citigroup",
     "description": "Citigroup Inc. or Citi (stylized as citi) is an American multinational investment bank and financial services company based in New York City. The company was formed in 1998 by the merger of Citicorp, the bank holding company for Citibank, and Travelers; Travelers was spun off from the company in 2002.[2][3]",
     "brands": [],
-    "other_companies": [
-      "Bank Handlowy(Poland)",
-      "Citibank Argentina",
-      "Citibank Australia",
-      "Citibank(United States)",
-      "Citibank Bahrain",
-      "Citibank China",
-      "Citibank Europe",
-      "Citi Private Bank",
-      "Citibank (Hong Kong)",
-      "Citibank India",
-      "Citigroup Global Markets Japan",
-      "Citibank Indonesia",
-      "Citibank Korea",
-      "Citibank Malaysia",
-      "Citibank Russia",
-      "Citibank Singapore",
-      "Citibank Uganda",
-      "Citibank United Arab Emirates",
-      "Citi Private Bank",
-      "Citi Global Wealth Management",
-      "Grupo Financiero Banamex",
-      "Beymen",
-      "Salomon Brothers",
-      "Nikko Cordial",
-      "Acciones y Valores de M\u00e9xico (Acciones y Valores Banamex, Casa de Bolsa Integrante del Grupo Financiero Banamex)",
-      "Discover Student Loans",
-      "Yield Book",
-      "Citigroup Global Markets Inc",
-      "Metalmark Capital",
-      "Lava Trading"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1314,14 +1152,7 @@
     "slug": "cme-group",
     "description": "CME Group Inc. (formerly Chicago Mercantile Exchange Holdings Inc.) is an American financial services company based in Chicago, Illinois. It operates financial derivatives exchanges, including the Chicago Mercantile Exchange (CME), the Chicago Board of Trade (CBOT), the New York Mercantile Exchange (NYMEX), and the Commodity Exchange (COMEX). The company owns 27% of S&P Dow Jones Indices.[2][3][4][5] It is the world's largest operator of financial derivatives exchanges. Its exchanges are platforms for trading in agricultural products, currencies, energy, interest rates, metals, futures contracts, options, stock indexes, and cryptocurrencies futures.",
     "brands": [],
-    "other_companies": [
-      "Chicago Mercantile Exchange",
-      "Chicago Board of Trade",
-      "New York Mercantile Exchange",
-      "Commodities Exchange, Inc.",
-      "NEX Group",
-      "Kansas City Board of Trade"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1379,14 +1210,9 @@
     "id": 119,
     "name": "Comcast",
     "slug": "comcast",
-    "description": "Comcast Corporation, formerly known as Comcast Holdings,[note 1] is an American multinational mass media, telecommunications, and entertainment conglomerate. Comcast\u2019s corporate headquarters is at the Comcast Center in Philadelphia,[8] while NBCUniversal, Comcast\u2019s New York operations and other major Comcast assets is headquartered at 30 Rockefeller Plaza in Midtown Manhattan in New York City. The company was ranked 51st in the Forbes Global 2000 in 2023.[9] It is the fourth-largest telecommunications company by worldwide revenue, after AT&T, Verizon, and China Mobile.[10] Comcast is the third-largest pay-TV company, the second-largest cable TV company by subscribers, and the largest home Internet service provider in the United States.",
+    "description": "Comcast Corporation, formerly known as Comcast Holdings,[note 1] is an American multinational mass media, telecommunications, and entertainment conglomerate. Comcast’s corporate headquarters is at the Comcast Center in Philadelphia,[8] while NBCUniversal, Comcast’s New York operations and other major Comcast assets is headquartered at 30 Rockefeller Plaza in Midtown Manhattan in New York City. The company was ranked 51st in the Forbes Global 2000 in 2023.[9] It is the fourth-largest telecommunications company by worldwide revenue, after AT&T, Verizon, and China Mobile.[10] Comcast is the third-largest pay-TV company, the second-largest cable TV company by subscribers, and the largest home Internet service provider in the United States.",
     "brands": [],
-    "other_companies": [
-      "NBCUniversal",
-      "Sky Group",
-      "Comcast Business",
-      "Midco(49%)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1506,13 +1332,7 @@
     "slug": "costar-group",
     "description": "CoStar Group, Inc. is an American provider of information, analytics, and marketing services to the commercial property industry in North America and Europe. Founded in 1987 by Andrew C. Florance and based in Arlington, Virginia, the company operates the CoStar online database and news website and several online marketplaces, including Apartments.com and Homes.com.",
     "brands": [],
-    "other_companies": [
-      "Apartments.com",
-      "Homes.com",
-      "LoopNet",
-      "Matterport",
-      "STR"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1572,12 +1392,7 @@
     "slug": "csx-corporation",
     "description": "CSX Corporation is an American holding company focused on rail transportation and real estate in North America, among other industries. The company was established in 1980 as part of the Chessie System and Seaboard Coast Line Industries merger. The various railroads of the former Chessie System and Seaboard Coast Line Industries that are now owned by CSX Corporation were eventually merged into a single line in 1986 and it became known as CSX Transportation. CSX Corporation currently has a number of subsidiaries beyond CSX Transportation. Previously based in Richmond, Virginia after the merger, the corporation moved its headquarters to Jacksonville, Florida, in 2003. CSX is a Fortune 500 company.",
     "brands": [],
-    "other_companies": [
-      "CSX Transportation",
-      "Pan Am Railways",
-      "Fruit Growers Express",
-      "Conrail"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1587,12 +1402,7 @@
     "slug": "cummins",
     "description": "Cummins Inc. is an American multinational corporation that designs, manufactures, and distributes diesel engines, electric vehicle components, and power generation products.[2] Cummins also services engines and related equipment, including fuel systems, air handling systems controls, filtration, emission control, electrical power generation systems, and engine control units.",
     "brands": [],
-    "other_companies": [
-      "Brammo",
-      "Hydrogenics",
-      "Meritor",
-      "Westport Innovations"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1602,16 +1412,7 @@
     "slug": "cvs-health",
     "description": "CVS Health Corporation is an American multinational healthcare company that owns CVS Pharmacy, a retail pharmacy chain; CVS Caremark, a pharmacy benefits manager; and Aetna, a health insurance provider, among many other brands. The company is the world's second largest healthcare company, behind UnitedHealth Group. In 2023, the company was ranked 64th in the Forbes Global 2000.[3][4] CVS started in Lowell, Massachusetts by brothers Stanley and Sidney Goldstein and their partner Ralph Hoagland.[5] The name stood for Consumer Value Stores.[6][7]",
     "brands": [],
-    "other_companies": [
-      "CVS Pharmacy",
-      "MinuteClinic",
-      "CVS Caremark",
-      "Longs Drugs",
-      "Navarro Discount Pharmacies",
-      "Omnicare",
-      "Aetna",
-      "Oak Street Health"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1661,12 +1462,7 @@
     "slug": "deckers-brands",
     "description": "Deckers Outdoor Corporation, doing business as Deckers Brands, is an American footwear designer and distributor founded in 1973 and based in Goleta, California. The company's portfolio of brands includes UGG, Teva, and Hoka. It was founded by Doug Otto and Karl F. Lopker.[2][3]",
     "brands": [],
-    "other_companies": [
-      "Hoka",
-      "Koolaburra",
-      "Teva",
-      "UGG"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1674,7 +1470,7 @@
     "id": 145,
     "name": "Deere & Company",
     "slug": "deere-company",
-    "description": "Deere & Company, doing business as John Deere[3] (/\u02c8d\u0292\u0252n\u02c8d\u026a\u0259r/), is an American corporation that manufactures agricultural machinery, heavy equipment, forestry machinery, diesel engines, drivetrains (axles, transmissions, gearboxes) used in heavy equipment and lawn care equipment. It also provides financial services and other related activities.",
+    "description": "Deere & Company, doing business as John Deere[3] (/ˈdʒɒnˈdɪər/), is an American corporation that manufactures agricultural machinery, heavy equipment, forestry machinery, diesel engines, drivetrains (axles, transmissions, gearboxes) used in heavy equipment and lawn care equipment. It also provides financial services and other related activities.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -1686,10 +1482,7 @@
     "slug": "dell-technologies",
     "description": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas since 1994.[3] It was formed as a result of the September 2016 merger of Dell and EMC Corporation.[4] Dell Technologies ranked 48th on the 2024 Fortune 500 rankings of the largest United States corporations based on its 2023 revenue;[5] its products include personal computers, servers, monitors, computer software, computer security and network security, as well as information security services.[4]",
     "brands": [],
-    "other_companies": [
-      "Alienware",
-      "Virtustream"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1697,24 +1490,9 @@
     "id": 147,
     "name": "Delta Air Lines",
     "slug": "delta-air-lines",
-    "description": "Delta Air Lines, Inc. is a major airline in the United States headquartered in Atlanta, Georgia, operating nine hubs, with Hartsfield\u2013Jackson Atlanta International Airport being its largest in terms of total passengers and number of departures. With its regional subsidiaries and contractors operating under the brand name Delta Connection, Delta has over 5,400 flights daily and serves 325 destinations in 52 countries on six continents.",
+    "description": "Delta Air Lines, Inc. is a major airline in the United States headquartered in Atlanta, Georgia, operating nine hubs, with Hartsfield–Jackson Atlanta International Airport being its largest in terms of total passengers and number of departures. With its regional subsidiaries and contractors operating under the brand name Delta Connection, Delta has over 5,400 flights daily and serves 325 destinations in 52 countries on six continents.",
     "brands": [],
-    "other_companies": [
-      "Aerom\u00e9xico(20%)",
-      "Air France\u2013KLM(3%)",
-      "China Eastern Airlines(3%)",
-      "Endeavor Air",
-      "Hanjin(15%)",
-      "LATAM Airlines(10%)",
-      "Republic Airways Holdings(14.4%)",
-      "Virgin Atlantic(49%)",
-      "WestJet(12.7%)[6]",
-      "Wheels Up(21%)",
-      "Clear Secure(5%)",
-      "Delta TechOps",
-      "Trainer Refinery",
-      "Unifi Aviation(49%)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1804,10 +1582,7 @@
     "slug": "doordash",
     "description": "DoorDash, Inc. is an American company operating online food ordering and food delivery. It trades under the symbol DASH.[4] With a 56% market share, DoorDash is the largest food delivery platform in the United States. It also has a 60% market share in the convenience delivery category.[5] As of December 31, 2020, the platform was used by 450,000 merchants, 20 million consumers, and had over one million delivery couriers.[6]",
     "brands": [],
-    "other_companies": [
-      "Deliveroo",
-      "Wolt"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1827,11 +1602,7 @@
     "slug": "dow-inc",
     "description": "The Dow Chemical Company is an American multinational corporation headquartered in Midland, Michigan, United States. The company was among the three largest chemical producers in the world in 2021.[2] It is the operating subsidiary of Dow Inc., a publicly traded holding company incorporated under Delaware law.[3]",
     "brands": [],
-    "other_companies": [
-      "The Dow Chemical Company",
-      "Union Carbide",
-      "Rohm and Haas"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -1859,7 +1630,7 @@
     "id": 161,
     "name": "Duke Energy",
     "slug": "duke-energy",
-    "description": "Duke Energy Corporation is an American electric power and natural gas holding company headquartered in Charlotte, North Carolina. The company serves over 7 million customers in the eastern United States. In 2024 it ranked as the 141st largest company in the United States \u2013 its highest-ever placement on the Fortune 500 list.[2]",
+    "description": "Duke Energy Corporation is an American electric power and natural gas holding company headquartered in Charlotte, North Carolina. The company serves over 7 million customers in the eastern United States. In 2024 it ranked as the 141st largest company in the United States – its highest-ever placement on the Fortune 500 list.[2]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -1869,7 +1640,7 @@
     "id": 162,
     "name": "DuPont",
     "slug": "dupont",
-    "description": "DuPont de Nemours, Inc., commonly shortened to DuPont, is an American multinational chemical company first formed in 1802 by French-American chemist and industrialist \u00c9leuth\u00e8re Ir\u00e9n\u00e9e du Pont de Nemours. The company played a major role in the development of the U.S. state of Delaware and first arose as a major supplier of gunpowder. DuPont developed many polymers such as Vespel, neoprene, nylon, Corian, Teflon, Mylar, Kapton, Kevlar, Zemdrain, Nomex, Tyvek, Sorona, viton, Corfam and Lycra in the 20th century, and its scientists developed many chemicals, most notably Freon (chlorofluorocarbons), for the refrigerant industry. It also developed synthetic pigments and paints including ChromaFlair.",
+    "description": "DuPont de Nemours, Inc., commonly shortened to DuPont, is an American multinational chemical company first formed in 1802 by French-American chemist and industrialist Éleuthère Irénée du Pont de Nemours. The company played a major role in the development of the U.S. state of Delaware and first arose as a major supplier of gunpowder. DuPont developed many polymers such as Vespel, neoprene, nylon, Corian, Teflon, Mylar, Kapton, Kevlar, Zemdrain, Nomex, Tyvek, Sorona, viton, Corfam and Lycra in the 20th century, and its scientists developed many chemicals, most notably Freon (chlorofluorocarbons), for the refrigerant industry. It also developed synthetic pigments and paints including ChromaFlair.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -1889,7 +1660,7 @@
     "id": 164,
     "name": "eBay Inc.",
     "slug": "ebay-inc",
-    "description": "eBay Inc. (/\u02c8i\u02d0be\u026a/ EE-bay, stylized as ebay) is an American multinational e-commerce company based in San Jose, California, that allows users to buy or view items via retail sales through online marketplaces and websites in 190 markets worldwide. Sales occur either via online auctions or \"buy it now\" instant sales, and the company charges commissions to sellers upon sales. eBay was founded by Pierre Omidyar in September 1995. In 2021, eBay had approximately 17 million global sellers[2];  in 2023, it reported 132 million yearly active buyers worldwide and handled $73 billion in transactions, 48% of which were in the United States. In 2023, the company had a take rate (revenue as a percentage of volume) of 13.81%.[1]",
+    "description": "eBay Inc. (/ˈiːbeɪ/ EE-bay, stylized as ebay) is an American multinational e-commerce company based in San Jose, California, that allows users to buy or view items via retail sales through online marketplaces and websites in 190 markets worldwide. Sales occur either via online auctions or \"buy it now\" instant sales, and the company charges commissions to sellers upon sales. eBay was founded by Pierre Omidyar in September 1995. In 2021, eBay had approximately 17 million global sellers[2];  in 2023, it reported 132 million yearly active buyers worldwide and handled $73 billion in transactions, 48% of which were in the United States. In 2023, the company had a take rate (revenue as a percentage of volume) of 13.81%.[1]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -1941,15 +1712,7 @@
     "slug": "elevance-health",
     "description": "Elevance Health, Inc. doing business as Elevance Health,[2] is an American health insurance company. Prior to June 2022, Elevance Health was named Anthem, Inc.[3] The company is the world's seventh largest healthcare company based on revenue. Its services include medical, pharmaceutical, dental, behavioral health, long-term care, and disability plans through affiliated companies such as Anthem Blue Cross and Blue Shield, Anthem Blue Cross in California,[4] Wellpoint, and Carelon.[5] It is the largest for-profit managed health care company in the Blue Cross Blue Shield Association. As of 2022, the company had 46.8 million members within its affiliated companies' health plans.[6]",
     "brands": [],
-    "other_companies": [
-      "Anthem Blue Cross and Blue Shield Affiliated Health Plans",
-      "Wellpoint",
-      "Carelon",
-      "Carelon Global Solutions (BPO/Shared Services subsidiary)",
-      "Amerigroup",
-      "UniCare",
-      "National Government Services"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2037,7 +1800,7 @@
     "id": 178,
     "name": "Equity Residential",
     "slug": "equity-residential",
-    "description": "Equity Residential is a United States\u2013based publicly traded real estate investment trust that invests in apartments.",
+    "description": "Equity Residential is a United States–based publicly traded real estate investment trust that invests in apartments.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -2065,9 +1828,9 @@
   },
   {
     "id": 181,
-    "name": "Est\u00e9e Lauder Companies (The)",
-    "slug": "est\u00e9e-lauder-companies-the",
-    "description": "The Est\u00e9e Lauder Companies Inc. (/\u02c8\u025bste\u026a \u02c8l\u0254\u02d0d\u0259r/ EST-ay LAW-d\u0259r) is an American multinational cosmetics company, a manufacturer and marketer of makeup, skincare, perfume, and hair care products, based in Midtown Manhattan, New York City. It is the second largest cosmetics company in the world after L'Or\u00e9al. The company owns a diverse portfolio of brands, including La Mer, Jo Malone London, Clinique and Tom Ford Beauty, among many more, distributed internationally through both digital commerce and retail channels.",
+    "name": "Estée Lauder Companies (The)",
+    "slug": "estée-lauder-companies-the",
+    "description": "The Estée Lauder Companies Inc. (/ˈɛsteɪ ˈlɔːdər/ EST-ay LAW-dər) is an American multinational cosmetics company, a manufacturer and marketer of makeup, skincare, perfume, and hair care products, based in Midtown Manhattan, New York City. It is the second largest cosmetics company in the world after L'Oréal. The company owns a diverse portfolio of brands, including La Mer, Jo Malone London, Clinique and Tom Ford Beauty, among many more, distributed internationally through both digital commerce and retail channels.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -2087,7 +1850,7 @@
     "id": 183,
     "name": "Evergy",
     "slug": "evergy",
-    "description": "Evergy, Inc. is an American investor-owned utility (IOU) with publicly traded stock with headquarters in Topeka, Kansas, and in Kansas City, Missouri. The company was formed from a merger of Westar Energy of Topeka and Great Plains Energy of Kansas City, parent company of Kansas City Power & Light. Evergy is the largest electric company in Kansas, serving more than 1.7 million residential, commercial and industrial customers in Kansas and Missouri.[2] Its more than 40 power plants have generating capacity of 16,000 megawatt electricity in Kansas and Missouri. Service territory covers 28,130 square miles (72,900\u00a0km2) in east Kansas and west Missouri. It owns more than 10,100 miles (16,300\u00a0km) of transmission lines and about 52,000 miles (84,000\u00a0km) of distribution lines.",
+    "description": "Evergy, Inc. is an American investor-owned utility (IOU) with publicly traded stock with headquarters in Topeka, Kansas, and in Kansas City, Missouri. The company was formed from a merger of Westar Energy of Topeka and Great Plains Energy of Kansas City, parent company of Kansas City Power & Light. Evergy is the largest electric company in Kansas, serving more than 1.7 million residential, commercial and industrial customers in Kansas and Missouri.[2] Its more than 40 power plants have generating capacity of 16,000 megawatt electricity in Kansas and Missouri. Service territory covers 28,130 square miles (72,900 km2) in east Kansas and west Missouri. It owns more than 10,100 miles (16,300 km) of transmission lines and about 52,000 miles (84,000 km) of distribution lines.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -2109,14 +1872,7 @@
     "slug": "exelon",
     "description": "Exelon Corporation is an American public utility headquartered in Chicago, and incorporated in Pennsylvania.[1] Exelon is the largest electric parent company in the United States by revenue and is the largest regulated electric utility in the United States with approximately 10 million customers. The company is ranked 187th on the Fortune 500.[2]",
     "brands": [],
-    "other_companies": [
-      "Atlantic City Electric",
-      "Baltimore Gas and Electric",
-      "Commonwealth Edison",
-      "Delmarva Power",
-      "PECO Energy Company",
-      "Pepco"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2134,7 +1890,7 @@
     "id": 187,
     "name": "Expedia Group",
     "slug": "expedia-group",
-    "description": "Expedia Group, Inc. is an American travel technology company that owns and operates travel fare aggregators and travel metasearch engines, including Expedia, Hotels.com, Vrbo, Travelocity, Hotwire.com, Orbitz, Ebookers, CheapTickets, CarRentals.com, Expedia Cruises, Wotif, and Trivago.[1] Over 3.5\u00a0million lodging facilities and flights on over 500 airlines are bookable on the company's websites.[1] It has 16,500 employees, and its headquarters are located in Seattle, Washington.",
+    "description": "Expedia Group, Inc. is an American travel technology company that owns and operates travel fare aggregators and travel metasearch engines, including Expedia, Hotels.com, Vrbo, Travelocity, Hotwire.com, Orbitz, Ebookers, CheapTickets, CarRentals.com, Expedia Cruises, Wotif, and Trivago.[1] Over 3.5 million lodging facilities and flights on over 500 airlines are bookable on the company's websites.[1] It has 16,500 employees, and its headquarters are located in Seattle, Washington.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -2164,16 +1920,9 @@
     "id": 190,
     "name": "ExxonMobil",
     "slug": "exxonmobil",
-    "description": "Exxon Mobil Corporation[a] (/\u02cc\u025bks\u0252n \u02c8mo\u028ab\u0259l/ EK-son MOH-b\u0259l)[4][5][6] is an American multinational oil and gas corporation headquartered in Spring, Texas, a suburb of Houston.[7][8]:\u200a1\u200a Founded as the largest direct successor of John D. Rockefeller's Standard Oil, the company was formed in 1999, with the merger of Exxon and Mobil. It is vertically integrated across the entire oil and gas industry, as well as within its chemicals division, which produces plastic, synthetic rubber, and other chemical products. As the largest U.S.-based oil and gas company, ExxonMobil is the eighth-largest company by revenue in the U.S. and 13th-largest in the world. It is also the largest investor-owned oil company in the world.[9][10][11] Approximately 55.56% of the company's shares are held by institutions, the largest of which, as of 2019, were The Vanguard Group (8.15%), BlackRock (6.61%), and State Street Corporation (4.83%).",
+    "description": "Exxon Mobil Corporation[a] (/ˌɛksɒn ˈmoʊbəl/ EK-son MOH-bəl)[4][5][6] is an American multinational oil and gas corporation headquartered in Spring, Texas, a suburb of Houston.[7][8]: 1  Founded as the largest direct successor of John D. Rockefeller's Standard Oil, the company was formed in 1999, with the merger of Exxon and Mobil. It is vertically integrated across the entire oil and gas industry, as well as within its chemicals division, which produces plastic, synthetic rubber, and other chemical products. As the largest U.S.-based oil and gas company, ExxonMobil is the eighth-largest company by revenue in the U.S. and 13th-largest in the world. It is also the largest investor-owned oil company in the world.[9][10][11] Approximately 55.56% of the company's shares are held by institutions, the largest of which, as of 2019, were The Vanguard Group (8.15%), BlackRock (6.61%), and State Street Corporation (4.83%).",
     "brands": [],
-    "other_companies": [
-      "Exxon Neftegas",
-      "ExxonMobil Australia",
-      "ExxonMobil Nigeria",
-      "Imperial Oil",
-      "SeaRiver Maritime",
-      "XTO Energy"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2233,17 +1982,7 @@
     "slug": "fedex",
     "description": "FedEx Corporation, originally known as Federal Express Corporation, is an American multinational conglomerate holding company specializing in transportation, e-commerce, and business services.[3][4] The company is headquartered in Memphis, Tennessee. The name \"FedEx\" is a syllabic abbreviation of its original air division, Federal Express, which operated under this name from 1973 until 1994.[5]",
     "brands": [],
-    "other_companies": [
-      "FedEx Custom Critical",
-      "FedEx Express",
-      "FedEx Freight",
-      "FedEx Ground",
-      "FedEx Logistics",
-      "FedEx Office",
-      "FedEx Services",
-      "FedEx Supply Chain",
-      "FedEx Trade Networks"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2291,7 +2030,7 @@
     "id": 201,
     "name": "Fiserv",
     "slug": "fiserv",
-    "description": "Fiserv, Inc. (/fa\u026a\u02c8s\u025c\u02d0rv/ fy-SURV) is an American multinational financial technology company headquartered in Milwaukee, Wisconsin. The company processes debit and credit card transactions, loyalty programs, loans, electronic bill pay, wires and ACH transfers, check deposits, and ATM transactions on behalf of banking institutions.[1] The company also produces debit and credit cards and point of sale terminals.[1]",
+    "description": "Fiserv, Inc. (/faɪˈsɜːrv/ fy-SURV) is an American multinational financial technology company headquartered in Milwaukee, Wisconsin. The company processes debit and credit card transactions, loyalty programs, loans, electronic bill pay, wires and ACH transfers, check deposits, and ATM transactions on behalf of banking institutions.[1] The company also produces debit and credit cards and point of sale terminals.[1]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -2303,37 +2042,7 @@
     "slug": "ford-motor-company",
     "description": "The Ford Motor Company (commonly known as Ford, sometimes abbreviated as FoMoCo) is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and luxury cars under its Lincoln brand. The company is listed on the New York Stock Exchange under the single-letter ticker symbol F and is controlled by the Ford family. They have minority ownership but a plurality of the voting power.[3][5]",
     "brands": [],
-    "other_companies": [
-      "InternationalFord ArgentinaFord AustraliaFord BrazilFord CanadaFord EuropeBritainFranceGermanyIrelandItalyOtosan(41%)RomaniaSpainTrustFordFord IndiaFord New ZealandFord PhilippinesFord Southern AfricaFord Vietnam(75%)Ford Lio Ho(70%)AutoAlliance Thailand(50%)Changan Ford(35%)Jiangling Motors(32%)FinanceFord CreditOtherBlueOval SKFord DriveFord NextLatitude AI",
-      "Ford Argentina",
-      "Ford Australia",
-      "Ford Brazil",
-      "Ford Canada",
-      "Ford EuropeBritainFranceGermanyIrelandItalyOtosan(41%)RomaniaSpainTrustFord",
-      "Britain",
-      "France",
-      "Germany",
-      "Ireland",
-      "Italy",
-      "Otosan(41%)",
-      "Romania",
-      "Spain",
-      "TrustFord",
-      "Ford India",
-      "Ford New Zealand",
-      "Ford Philippines",
-      "Ford Southern Africa",
-      "Ford Vietnam(75%)",
-      "Ford Lio Ho(70%)",
-      "AutoAlliance Thailand(50%)",
-      "Changan Ford(35%)",
-      "Jiangling Motors(32%)",
-      "Ford Credit",
-      "BlueOval SK",
-      "Ford Drive",
-      "Ford Next",
-      "Latitude AI"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2351,18 +2060,9 @@
     "id": 204,
     "name": "Fortive",
     "slug": "fortive",
-    "description": "Fortive Corporation is an American industrial technology conglomerate company headquartered in Everett, Washington. The company specializes in providing essential technologies for connected workflow solutions; designing, developing, manufacturing and distributing professional and engineered products, software and services.[2] Their products and services are split into three strategic segments; Intelligent Operating Solutions, Precision Technologies, and Advanced Healthcare Solutions.[3] As of December\u00a02022[update], Fortive has over 18,000 employees in 60 countries worldwide.[4]",
+    "description": "Fortive Corporation is an American industrial technology conglomerate company headquartered in Everett, Washington. The company specializes in providing essential technologies for connected workflow solutions; designing, developing, manufacturing and distributing professional and engineered products, software and services.[2] Their products and services are split into three strategic segments; Intelligent Operating Solutions, Precision Technologies, and Advanced Healthcare Solutions.[3] As of December 2022[update], Fortive has over 18,000 employees in 60 countries worldwide.[4]",
     "brands": [],
-    "other_companies": [
-      "Fluke Corporation",
-      "Accruent",
-      "Gordian",
-      "ServiceChannel",
-      "Intelex",
-      "Industrial Scientific Corporation",
-      "Advanced Sterilization Products",
-      "Censis"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2392,17 +2092,7 @@
     "slug": "franklin-resources",
     "description": "Franklin Resources, Inc. is an American multinational investment management holding company that, together with its subsidiaries, is referred to as Franklin Templeton; it is a global investment firm founded in New York City in 1947 as Franklin Distributors, Inc. It is listed on the New York Stock Exchange under the ticker symbol BEN, in honor of Benjamin Franklin, for whom the company is named, and who was admired by founder Rupert Johnson Sr. In 1973, the company's headquarters moved from New York to San Mateo, California.[2]",
     "brands": [],
-    "other_companies": [
-      "Clarion Partners",
-      "ClearBridge Investments",
-      "Fiduciary Trust Company International",
-      "K2 Advisors",
-      "Legg Mason",
-      "Lexington Partners",
-      "Putnam Investments",
-      "Royce Investment Partners",
-      "Western Asset Management Company"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2412,11 +2102,7 @@
     "slug": "freeport-mcmoran",
     "description": "Freeport-McMoRan Inc., often called Freeport, is an American mining company based in the Freeport-McMoRan Center, in Phoenix, Arizona. The company is the world's largest producer of molybdenum, a major copper producer and operates the world's largest gold mine, the Grasberg mine in Papua, Indonesia.",
     "brands": [],
-    "other_companies": [
-      "Atlantic Copper, S.A.",
-      "PT Freeport Indonesia (49%)",
-      "PT Irja Eastern Minerals"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2446,18 +2132,7 @@
     "slug": "ge-aerospace",
     "description": "General Electric Company, doing business as GE Aerospace,[4] is an American aircraft engine supplier that is headquartered in Evendale, Ohio, outside Cincinnati. It is the legal successor to the original General Electric Company founded in 1892, which split into three separate companies between November 2021 and April 2024, adopting the trade name GE Aerospace after divesting its healthcare and energy divisions.[5][6]",
     "brands": [],
-    "other_companies": [
-      "Avio Aero",
-      "CFM International(50%)",
-      "Colibrium Additive",
-      "Dowty Propellers",
-      "Engine Alliance(50%)",
-      "GE Aerospace Research",
-      "GE Aviation Systems",
-      "GE Honda Aero Engines(50%)",
-      "Unison Industries",
-      "Walter Aircraft Engines"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2465,7 +2140,7 @@
     "id": 212,
     "name": "GE HealthCare",
     "slug": "ge-healthcare",
-    "description": "GE Healthcare Technologies, Inc. is an American health technology company based in Chicago, Illinois. The company, which stylizes its own name as GE HealthCare, operates four divisions: Medical imaging, which includes molecular imaging, computed tomography, magnetic resonance, women\u2019s health screening and X-ray systems; Ultrasound; Patient Care Solutions, which is focused on remote patient monitoring, anesthesia and respiratory care, diagnostic cardiology, and infant care; and Pharmaceutical Diagnostics, which manufactures contrast agents and radiopharmaceuticals.[2]",
+    "description": "GE Healthcare Technologies, Inc. is an American health technology company based in Chicago, Illinois. The company, which stylizes its own name as GE HealthCare, operates four divisions: Medical imaging, which includes molecular imaging, computed tomography, magnetic resonance, women’s health screening and X-ray systems; Ultrasound; Patient Care Solutions, which is focused on remote patient monitoring, anesthesia and respiratory care, diagnostic cardiology, and infant care; and Pharmaceutical Diagnostics, which manufactures contrast agents and radiopharmaceuticals.[2]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -2477,14 +2152,7 @@
     "slug": "ge-vernova",
     "description": "GE Vernova, Inc.[2] is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts.[3] The company operates through three main segments: Power, which designs, manufactures, and services gas, nuclear, hydro, and steam technologies; Wind, which provides onshore and offshore wind turbines and blades; and Electrification, which offers grid solutions, power conversion, solar and storage solutions, and digital technologies for the transmission, distribution, and management of electricity.[4][5]",
     "brands": [],
-    "other_companies": [
-      "GE Vernova Hitachi Nuclear Energy",
-      "GE Wind",
-      "GE Offshore Wind",
-      "LM Wind Power",
-      "GE Power Conversion",
-      "GE Energy Financial Services"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2514,18 +2182,7 @@
     "slug": "general-dynamics",
     "description": "General Dynamics Corporation (GD) is an American industrial and technology company based in Reston, Virginia. It is primarily a developer and producer of advanced military equipment of a wide variety, such as nuclear submarines, main battle tanks, and armoured fighting vehicles. It is also the manufacturer of the civilian aviation Gulfstream business jets and a provider of information technology services. The company is the 3rd largest of the top 100 contractors of the U.S. federal government; it receives over 3% of total spending by the federal government of the United States on contractors.[3]",
     "brands": [],
-    "other_companies": [
-      "Bath Iron Works",
-      "Electric Boat",
-      "General Dynamics Information Technology",
-      "General Dynamics Land Systems",
-      "General Dynamics Mission Systems",
-      "General Dynamics UK",
-      "Gulfstream",
-      "Jet Aviation",
-      "MOWAG",
-      "NASSCO"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2545,42 +2202,7 @@
     "slug": "general-motors",
     "description": "General Motors Company (GM)[2] is an American multinational automotive manufacturing company headquartered in Detroit, Michigan, United States.[3] The company is most known for owning and manufacturing four automobile brands: Chevrolet, Buick, GMC, and Cadillac, each a separate division of GM. By total sales, it has continuously been the largest automaker in the United States, and was the largest in the world for 77 years before losing the title to Toyota in 2008.[4][5]",
     "brands": [],
-    "other_companies": [
-      "GM FinancialGM Insurance",
-      "GM Financial",
-      "GM Insurance",
-      "GM Certified ServiceGM EnergyGM EnvolveOnStar",
-      "GM Certified Service",
-      "GM Energy",
-      "GM Envolve",
-      "OnStar",
-      "ACDelcoDMAXGM Components HoldingsGM DefenseGM Performance Power UnitsGM Subsystems Manufacturing LLCUltium Cells LLC",
-      "ACDelco",
-      "DMAX",
-      "GM Components Holdings",
-      "GM Defense",
-      "GM Performance Power Units",
-      "GM Subsystems Manufacturing LLC",
-      "Ultium Cells LLC",
-      "Cadillac EuropeGM ArgentinaGM BrazilGM CanadaGM ChileGM ColombiaGM EgyptGM JapanGM KoreaGM MexicoGM New ZealandGM Specialty Vehicles(GMSV)GM Technical Center KoreaPan Asia Technical Automotive Center(50%)SAIC-GM(50%)SAIC-GM-Wuling(44%)SGMW Motor Indonesia",
-      "Cadillac Europe",
-      "GM Argentina",
-      "GM Brazil",
-      "GM Canada",
-      "GM Chile",
-      "GM Colombia",
-      "GM Egypt",
-      "GM Japan",
-      "GM Korea",
-      "GM Mexico",
-      "GM New Zealand",
-      "GM Specialty Vehicles(GMSV)",
-      "GM Technical Center Korea",
-      "Pan Asia Technical Automotive Center(50%)",
-      "SAIC-GM(50%)",
-      "SAIC-GM-Wuling(44%)SGMW Motor Indonesia",
-      "SGMW Motor Indonesia"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2598,7 +2220,7 @@
     "id": 220,
     "name": "Gilead Sciences",
     "slug": "gilead-sciences",
-    "description": "Gilead Sciences, Inc. (/\u02c8\u0261\u026ali\u0259d/) is an American biopharmaceutical company headquartered in Foster City, California, that focuses on researching and developing antiviral drugs used in the treatment of HIV/AIDS, hepatitis B, hepatitis C, influenza, and COVID-19, including ledipasvir/sofosbuvir and sofosbuvir. Gilead is a member of the Nasdaq-100 and the S&P 100.",
+    "description": "Gilead Sciences, Inc. (/ˈɡɪliəd/) is an American biopharmaceutical company headquartered in Foster City, California, that focuses on researching and developing antiviral drugs used in the treatment of HIV/AIDS, hepatitis B, hepatitis C, influenza, and COVID-19, including ledipasvir/sofosbuvir and sofosbuvir. Gilead is a member of the Nasdaq-100 and the S&P 100.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -2610,10 +2232,7 @@
     "slug": "global-payments",
     "description": "Global Payments Inc. is an American multinational financial technology company that provides payment technology and services to merchants, issuers and consumers.[2] In June 2021, the company was named to the Fortune 500.[3] The company processes payments made through credit cards, debit cards,[4] and digital and contactless payments.[5]",
     "brands": [],
-    "other_companies": [
-      "TSYS",
-      "Heartland Payment Systems"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2641,11 +2260,9 @@
     "id": 224,
     "name": "Goldman Sachs",
     "slug": "goldman-sachs",
-    "description": "The Goldman Sachs Group, Inc. (/s\u00e6ks/ SAKS) is an American multinational investment bank and financial services company. Founded in 1869, Goldman Sachs is headquartered in Lower Manhattan in New York City, with regional headquarters in many international financial centers.[1] Goldman Sachs is one of the largest investment banks in the world by revenue[2][3] and is ranked 55th on the Fortune 500 list of the largest United States corporations by total revenue.[4] In the Forbes Global 2000 of 2024, Goldman Sachs ranked 23rd.[5] It is considered a systemically important financial institution by the Financial Stability Board.",
+    "description": "The Goldman Sachs Group, Inc. (/sæks/ SAKS) is an American multinational investment bank and financial services company. Founded in 1869, Goldman Sachs is headquartered in Lower Manhattan in New York City, with regional headquarters in many international financial centers.[1] Goldman Sachs is one of the largest investment banks in the world by revenue[2][3] and is ranked 55th on the Fortune 500 list of the largest United States corporations by total revenue.[4] In the Forbes Global 2000 of 2024, Goldman Sachs ranked 23rd.[5] It is considered a systemically important financial institution by the Financial Stability Board.",
     "brands": [],
-    "other_companies": [
-      "Goldman Sachs Alternatives"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2673,12 +2290,9 @@
     "id": 227,
     "name": "Hasbro",
     "slug": "hasbro",
-    "description": "Hasbro, Inc. (/\u02c8h\u00e6zbro\u028a/; a syllabic abbreviation of its original name, Hassenfeld Brothers) is an American multinational toy manufacturing and entertainment holding company founded on December 6, 1923 by Henry, Hillel and Herman Hassenfeld and is incorporated and headquartered in Pawtucket, Rhode Island.[5] Hasbro owns the trademarks and products of Kenner, Milton Bradley, Parker Brothers, and Wizards of the Coast, among others. As of August 2020, over 81.5% of its shares were held by large financial institutions.[6]",
+    "description": "Hasbro, Inc. (/ˈhæzbroʊ/; a syllabic abbreviation of its original name, Hassenfeld Brothers) is an American multinational toy manufacturing and entertainment holding company founded on December 6, 1923 by Henry, Hillel and Herman Hassenfeld and is incorporated and headquartered in Pawtucket, Rhode Island.[5] Hasbro owns the trademarks and products of Kenner, Milton Bradley, Parker Brothers, and Wizards of the Coast, among others. As of August 2020, over 81.5% of its shares were held by large financial institutions.[6]",
     "brands": [],
-    "other_companies": [
-      "Avalon Hill(label)",
-      "Wizards of the Coast[4]"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2706,7 +2320,7 @@
     "id": 230,
     "name": "Henry Schein",
     "slug": "henry-schein",
-    "description": "Henry Schein, Inc. is an American distributor of health care products and services, with operations in 33 countries and territories.[4][5] It is the world\u2019s largest provider of health care solutions to office-based dental and medical practitioners.[6] For 14 consecutive years, the company has been named as one of the World's Most Ethical Companies by  Ethisphere, most recently in 2025.[7]",
+    "description": "Henry Schein, Inc. is an American distributor of health care products and services, with operations in 33 countries and territories.[4][5] It is the world’s largest provider of health care solutions to office-based dental and medical practitioners.[6] For 14 consecutive years, the company has been named as one of the World's Most Ethical Companies by  Ethisphere, most recently in 2025.[7]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -2728,15 +2342,7 @@
     "slug": "hewlett-packard-enterprise",
     "description": "The Hewlett Packard Enterprise Company (HPE) is an American multinational information technology company based in Spring, Texas. It is a business-focused organization which works in servers, storage, networking, containerization software and consulting and support. HPE was ranked No. 107 in the 2018 Fortune 500 list of the largest United States corporations by total revenue.[2]",
     "brands": [],
-    "other_companies": [
-      "Aruba Networks",
-      "Cray",
-      "Juniper Networks",
-      "Zerto",
-      "Silver Peak Systems",
-      "Axis Security",
-      "Athonet"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2766,11 +2372,7 @@
     "slug": "home-depot-the",
     "description": "The Home Depot, Inc., often referred to as Home Depot, is an American multinational home improvement retail corporation which sells tools, construction products, appliances, and services including fuel and transportation rentals. Home Depot is the largest home improvement retailer in the United States.[4] In 2021, the company had 490,600 employees and more than $151 billion in revenue. The company is headquartered in Cobb County, Georgia,[5] with an Atlanta mailing address.[6]",
     "brands": [],
-    "other_companies": [
-      "The Home Depot Pro",
-      "HD Supply",
-      "SRS Distribution[1]"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2780,14 +2382,7 @@
     "slug": "honeywell",
     "description": "Honeywell International Inc. is an American publicly traded, multinational conglomerate corporation headquartered in Charlotte, North Carolina. It primarily operates in four areas of business: aerospace, building automation, industrial automation, and energy and sustainability solutions (ESS).[2] Honeywell also owns and operates Sandia National Laboratories under contract with the U.S. Department of Energy. Honeywell is a Fortune 500 company, ranked 115th in 2023.[3] In 2024, the corporation had a global workforce of approximately 102,000 employees.[1][4] As of 2025, its chairman and chief executive officer was Vimal Kapur.[5]",
     "brands": [],
-    "other_companies": [
-      "Honeywell Aerospace",
-      "Honeywell Automation India",
-      "Intermec",
-      "RAE Systems",
-      "Honeywell UOP",
-      "Tridium"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2797,23 +2392,7 @@
     "slug": "hormel-foods",
     "description": "Hormel Foods Corporation, doing business as Hormel Foods or simply Hormel, is an American multinational food processing company founded in 1891 in Austin, Minnesota, by George A. Hormel as George A. Hormel & Company. The company originally focused on the packaging and selling of ham, sausage and other pork, chicken, beef and lamb products to consumers, adding Spam in 1937. By the 1980s, Hormel began offering a wider range of packaged and refrigerated foods. The company changed its name to Hormel Foods Corporation in 1993 and uses the Hormel brand on many of its products; the company's other brands include Planters, Columbus Craft Meats, Dinty Moore, Jennie-O, and Skippy. The company's products are available in over 80 countries.",
     "brands": [],
-    "other_companies": [
-      "Applegate Farms, LLC",
-      "Beijing Hormel Co. Ltd.",
-      "Bruke Marketing Corporation",
-      "Cidade do Sol",
-      "Columbus Manufacturing Inc.",
-      "Dan's Prize Inc.",
-      "Fontanini Foods",
-      "Hormel Foods Australia Pty. Ltd.",
-      "Hormel Foods Canada",
-      "Jennie-O",
-      "Justin's, LLC",
-      "Megamex Foods, LLC[a]",
-      "Okinawa Hormel Ltd.",
-      "The Purefoods-Hormel Company Inc.[b]",
-      "Sadler's Smokehouse"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2903,47 +2482,7 @@
     "slug": "idex-corporation",
     "description": "IDEX Corporation is a global industrial company based in Northbrook, Illinois. IDEX develops, designs, and manufactures fluidics systems, optics systems, fire and rescue equipment, and other specialty engineered products. As of February 2025, IDEX operated in approximately 20 countries and had approximately employed 9,000 employees. The company is publicly traded and a component of the S&P 500 index.",
     "brands": [],
-    "other_companies": [
-      "Airtech Group",
-      "Upchurch Scientific",
-      "Akron Brass",
-      "Hale Products Inc",
-      "Godiva Fire Pumps",
-      "Viking Pump",
-      "Quadro Engineering",
-      "Semrock",
-      "Liquid Controls",
-      "Warren Rupp",
-      "Microfluidics International Corporation (MFIC)",
-      "Advanced Thin Films",
-      "Rheodyne",
-      "Band It",
-      "Pulsafeeder",
-      "Banjo Corporation",
-      "Material Processing Technologies (MPT)",
-      "Abel Pumps",
-      "Precision Polymer Engineering (PPE)",
-      "Faure Herman",
-      "Gast Manufacturing",
-      "ADS Environment",
-      "Toptech Systems",
-      "Trebor International",
-      "CIDRA Precision",
-      "Knight",
-      "Phantom Controls",
-      "Wright Flow Technologies",
-      "Pumper Parts",
-      "Versa-Matic Pump",
-      "Flow Management Devices LLC.",
-      "Signfix",
-      "Richter",
-      "LouwersHanique",
-      "Veco",
-      "Millux",
-      "Wincan",
-      "Tecan",
-      "Atul"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -2981,7 +2520,7 @@
     "id": 250,
     "name": "Ingersoll Rand",
     "slug": "ingersoll-rand",
-    "description": "Ingersoll Rand Inc. is an American multinational company that provides flow creation and industrial products. The company was formed in February 2020 through the spinoff of the industrial segment of Ingersoll-Rand\u00a0plc (now known as Trane Technologies) and its merger with Gardner Denver. Its products are sold under more than 40 brands across all major global markets.",
+    "description": "Ingersoll Rand Inc. is an American multinational company that provides flow creation and industrial products. The company was formed in February 2020 through the spinoff of the industrial segment of Ingersoll-Rand plc (now known as Trane Technologies) and its merger with Gardner Denver. Its products are sold under more than 40 brands across all major global markets.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3003,10 +2542,7 @@
     "slug": "intel",
     "description": "Intel Corporation is an American multinational technology company headquartered in Santa Clara, California. It designs, manufactures, and sells computer components such as central processing units (CPUs) and related products for business and consumer markets. Intel was the world's third-largest semiconductor chip manufacturer by revenue in 2024 and has been included in the Fortune 500 list of the largest United States corporations by revenue since 2007. It was one of the first companies listed on Nasdaq.",
     "brands": [],
-    "other_companies": [
-      "Mobileye(94.2%)",
-      "Intel Ireland"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3014,7 +2550,7 @@
     "id": 253,
     "name": "Interactive Brokers",
     "slug": "interactive-brokers",
-    "description": "Interactive Brokers, Inc. (abbreviated as IB or IBKR) is an American multinational brokerage firm headquartered in Greenwich, Connecticut. It operates the largest electronic trading platform in the United States by number of daily average revenue trades. In 2024, the platform processed an average of 2.6 million trades per trading day.[1] Interactive Brokers is the largest foreign exchange market broker[2] and is one of the largest prime brokers servicing commodity brokers. The company brokers stocks, options, futures contracts, exchange of futures for physicals, options on futures, bonds, mutual funds, currency, cryptocurrency, contracts for difference, derivatives, and trading in prediction markets. Interactive Brokers offers direct market access, omnibus and non-disclosed broker accounts, and provides clearing services. The firm has operations in 36 countries and 28 currencies. As of December 31, 2024, it had 3.337 million institutional and individual brokerage customers, with total customer equity of US$568.2 billion.[1] In addition to its headquarters in Greenwich, on the Gold Coast of Connecticut, the company has offices in major financial centers worldwide. More than half of the company's customers reside outside the United States, in approximately 200 countries.[1]:\u200a15",
+    "description": "Interactive Brokers, Inc. (abbreviated as IB or IBKR) is an American multinational brokerage firm headquartered in Greenwich, Connecticut. It operates the largest electronic trading platform in the United States by number of daily average revenue trades. In 2024, the platform processed an average of 2.6 million trades per trading day.[1] Interactive Brokers is the largest foreign exchange market broker[2] and is one of the largest prime brokers servicing commodity brokers. The company brokers stocks, options, futures contracts, exchange of futures for physicals, options on futures, bonds, mutual funds, currency, cryptocurrency, contracts for difference, derivatives, and trading in prediction markets. Interactive Brokers offers direct market access, omnibus and non-disclosed broker accounts, and provides clearing services. The firm has operations in 36 countries and 28 currencies. As of December 31, 2024, it had 3.337 million institutional and individual brokerage customers, with total customer equity of US$568.2 billion.[1] In addition to its headquarters in Greenwich, on the Gold Coast of Connecticut, the company has offices in major financial centers worldwide. More than half of the company's customers reside outside the United States, in approximately 200 countries.[1]: 15",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3064,7 +2600,7 @@
     "id": 258,
     "name": "Intuitive Surgical",
     "slug": "intuitive-surgical",
-    "description": "Intuitive Surgical, Inc. is an American biotechnology company that develops, manufactures, and markets robotic products designed to improve clinical outcomes of patients through minimally invasive surgery, most notably with the da Vinci Surgical System.  The company is part of the Nasdaq-100, S&P 100 and S&P 500. As of 31\u00a0December\u00a02021[update], Intuitive Surgical had an installed base of 6,730 da Vinci Surgical Systems, including 4,139 in the U.S., 1,199 in Europe, 1,050 in Asia, and 342 in the rest of the world.[2]",
+    "description": "Intuitive Surgical, Inc. is an American biotechnology company that develops, manufactures, and markets robotic products designed to improve clinical outcomes of patients through minimally invasive surgery, most notably with the da Vinci Surgical System.  The company is part of the Nasdaq-100, S&P 100 and S&P 500. As of 31 December 2021[update], Intuitive Surgical had an installed base of 6,730 da Vinci Surgical Systems, including 4,139 in the U.S., 1,199 in Europe, 1,050 in Asia, and 342 in the rest of the world.[2]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3076,10 +2612,7 @@
     "slug": "invesco",
     "description": "Invesco Ltd. is an American (formerly British) independent investment management company headquartered in Atlanta, Georgia, with branch offices in 20 countries. Its common stock is a constituent of the S&P 500 and trades on the New York Stock Exchange.[3] Invesco operates under the Invesco, Invesco Perpetual, and Powershares brand names.",
     "brands": [],
-    "other_companies": [
-      "Invesco Perpetual",
-      "Invesco PowerShares"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3117,7 +2650,7 @@
     "id": 263,
     "name": "J.B. Hunt",
     "slug": "jb-hunt",
-    "description": "J.B. Hunt Transport Services, Inc. is an American transportation and logistics company based in Lowell, Arkansas. It was founded by Johnnie Bryan Hunt and\u00a0Johnelle Hunt in Arkansas on August 10, 1961. By 1983, J.B. Hunt had grown into the 80th largest trucking firm in the US, with $623.47 million in revenue. At that time J.B. Hunt operated 550 tractors, 1,049 trailers, and had roughly 1,050 employees.[3] J.B. Hunt primarily operates semi-trailer trucks and provides transportation services throughout the continental US, Canada and Mexico. The company's fleet consists of over 12,000 trucks and 145,000 trailers and containers.[4]",
+    "description": "J.B. Hunt Transport Services, Inc. is an American transportation and logistics company based in Lowell, Arkansas. It was founded by Johnnie Bryan Hunt and Johnelle Hunt in Arkansas on August 10, 1961. By 1983, J.B. Hunt had grown into the 80th largest trucking firm in the US, with $623.47 million in revenue. At that time J.B. Hunt operated 550 tractors, 1,049 trailers, and had roughly 1,050 employees.[3] J.B. Hunt primarily operates semi-trailer trucks and provides transportation services throughout the continental US, Canada and Mexico. The company's fleet consists of over 12,000 trucks and 145,000 trailers and containers.[4]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3147,25 +2680,9 @@
     "id": 266,
     "name": "Jacobs Solutions",
     "slug": "jacobs-solutions",
-    "description": "Jacobs Solutions Inc. is an American international technical professional services firm based in Dallas.[2][3] The company provides engineering, technical, professional, and construction services as well as scientific and specialty consulting for a broad range of clients globally, including companies, organizations, and government agencies.[4] Jacobs has consistently ranked No. 1 on both Engineering News-Record (ENR)'s 2018, 2019, 2020, 2021, 2022, and 2023 Top 500 Design Firms[5] and Trenchless Technology\u2019s 2018, 2019, 2020, and 2021 Top 50 Trenchless Engineering Firms.[6] Its worldwide annual revenue were over $12 billion in the 2025 fiscal year, and earnings dropped to $289 million.[1]:\u200aF-4",
+    "description": "Jacobs Solutions Inc. is an American international technical professional services firm based in Dallas.[2][3] The company provides engineering, technical, professional, and construction services as well as scientific and specialty consulting for a broad range of clients globally, including companies, organizations, and government agencies.[4] Jacobs has consistently ranked No. 1 on both Engineering News-Record (ENR)'s 2018, 2019, 2020, 2021, 2022, and 2023 Top 500 Design Firms[5] and Trenchless Technology’s 2018, 2019, 2020, and 2021 Top 50 Trenchless Engineering Firms.[6] Its worldwide annual revenue were over $12 billion in the 2025 fiscal year, and earnings dropped to $289 million.[1]: F-4",
     "brands": [],
-    "other_companies": [
-      "CH2M",
-      "The KeyW Corporation",
-      "Sverdrup Corporation",
-      "The Buffalo Group",
-      "Gibb",
-      "Halcrow Group",
-      "Babtie, Shaw and Morton",
-      "Leighfisher",
-      "KlingStubbins",
-      "Simetrica",
-      "Federal Network Systems",
-      "Edwards & Kelcey",
-      "Aquenta Consulting",
-      "Bechtel Jacobs",
-      "FMHC Corporation"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3175,29 +2692,7 @@
     "slug": "johnson-johnson",
     "description": "Johnson & Johnson (J&J) is an American multinational pharmaceutical, biotechnology, and medical technologies corporation headquartered in New Brunswick, New Jersey, and publicly traded on the New York Stock Exchange. Its common stock is a component of the Dow Jones Industrial Average, and the company is ranked No. 48 on the 2025 Fortune 500 list of the largest United States corporations.[2] In 2025, the company was ranked 42th in the Forbes Global 2000.[3] Johnson & Johnson has a global workforce of approximately 138,000 employees who are led by the company's current chairman and chief executive officer, Joaquin Duato. Johnson & Johnson is one of the world's most valuable companies and is one of only two U.S.-based companies that has a prime credit rating of AAA.[4]",
     "brands": [],
-    "other_companies": [
-      "Johnson & Johnson Pharmaceutical Research and DevelopmentActelion PharmaceuticalsCilagJanssen BiologicsJanssen Global ServicesJanssen TherapeuticsJanssen Vaccines & PreventionMomenta Pharmaceuticals",
-      "Actelion Pharmaceuticals",
-      "Cilag",
-      "Janssen Biologics",
-      "Janssen Global Services",
-      "Janssen Therapeutics",
-      "Janssen Vaccines & Prevention",
-      "Momenta Pharmaceuticals",
-      "Johnson & Johnson MedTechAbiomedAcclarentBiosense WebsterCerenovusDePuy SynthesEthiconJohnson & Johnson VisionMentorSynthesV-WaveShockwave Medical",
-      "Abiomed",
-      "Acclarent",
-      "Biosense Webster",
-      "Cerenovus",
-      "DePuy Synthes",
-      "Ethicon",
-      "Johnson & Johnson Vision",
-      "Mentor",
-      "Synthes",
-      "V-Wave",
-      "Shockwave Medical",
-      "Johnson & Johnson Services"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3217,12 +2712,7 @@
     "slug": "jpmorgan-chase",
     "description": "JPMorgan Chase & Co. (stylized as JPMorganChase) is an American multinational banking institution headquartered in New York City and incorporated in Delaware. It is the largest bank in the United States, and the world's largest bank by market capitalization as of 2025.[3][4] As the largest of the Big Four banks in America, the firm is considered systemically important by the Financial Stability Board. Its size and scale have often led to enhanced regulatory oversight as well as the development of an internal \"Fortress Balance Sheet\".[5][6] The firm has had its global headquarters on 270 Park Avenue in Midtown Manhattan since 2025.[7]",
     "brands": [],
-    "other_companies": [
-      "Chase Bank",
-      "Chase UK",
-      "J.P. Morgan & Co.",
-      "One Equity Partners"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3300,7 +2790,7 @@
     "id": 277,
     "name": "KKR & Co.",
     "slug": "kkr-co",
-    "description": "KKR & Co. Inc., also known as Kohlberg Kravis Roberts & Co., is an American global private equity and investment company. As of December\u00a031, 2024[update], the firm had completed 770 private-equity investments with approximately $790\u00a0billion of total enterprise value.[1] Its assets under management (AUM) and fee paying assets under management (FPAUM) were $553\u00a0billion and $446\u00a0billion, respectively.[1]:\u200a167",
+    "description": "KKR & Co. Inc., also known as Kohlberg Kravis Roberts & Co., is an American global private equity and investment company. As of December 31, 2024[update], the firm had completed 770 private-equity investments with approximately $790 billion of total enterprise value.[1] Its assets under management (AUM) and fee paying assets under management (FPAUM) were $553 billion and $446 billion, respectively.[1]: 167",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3320,7 +2810,7 @@
     "id": 279,
     "name": "Kraft Heinz",
     "slug": "kraft-heinz",
-    "description": "The Kraft Heinz Company (KHC), commonly known as Kraft Heinz (/\u02c8kr\u00e6ft \u02c8ha\u026anz/), is an American multinational food company formed by the merger of Kraft Foods Group, Inc. and the H.J. Heinz Company co-headquartered in Chicago and Pittsburgh.[4][5]",
+    "description": "The Kraft Heinz Company (KHC), commonly known as Kraft Heinz (/ˈkræft ˈhaɪnz/), is an American multinational food company formed by the merger of Kraft Foods Group, Inc. and the H.J. Heinz Company co-headquartered in Chicago and Pittsburgh.[4][5]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3390,7 +2880,7 @@
     "id": 286,
     "name": "Leidos",
     "slug": "leidos",
-    "description": "Leidos Holdings, Inc. is an American defense, aviation, information technology, and biomedical research company headquartered in Reston, Virginia, that provides scientific, engineering, systems integration, and technical services. Founded as Science Applications International Corporation (SAIC),[6] Leidos merged with Lockheed Martin's IT sector, Information Systems & Global Solutions (Lockheed Martin IS&GS), in August 2016 to create the defense industry\u2019s largest IT services provider. The Leidos-Lockheed Martin merger is one of the biggest transactions thus far in the consolidation of the defense sector. Leidos contracts extensively with the Department of Defense, the Department of Homeland Security, and the Intelligence Community, as well as other U.S. government agencies and select commercial markets.",
+    "description": "Leidos Holdings, Inc. is an American defense, aviation, information technology, and biomedical research company headquartered in Reston, Virginia, that provides scientific, engineering, systems integration, and technical services. Founded as Science Applications International Corporation (SAIC),[6] Leidos merged with Lockheed Martin's IT sector, Information Systems & Global Solutions (Lockheed Martin IS&GS), in August 2016 to create the defense industry’s largest IT services provider. The Leidos-Lockheed Martin merger is one of the biggest transactions thus far in the consolidation of the defense sector. Leidos contracts extensively with the Department of Defense, the Department of Homeland Security, and the Intelligence Community, as well as other U.S. government agencies and select commercial markets.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3442,16 +2932,7 @@
     "slug": "live-nation-entertainment",
     "description": "Live Nation Entertainment, Inc. is an American multinational entertainment company that was founded in 2010 following the merger of Live Nation and Ticketmaster. It continues to operate both brands as subsidiary companies, promoting and managing ticket sales for live entertainment internationally. It also owns and operates entertainment venues and manages the careers of music artists.",
     "brands": [],
-    "other_companies": [
-      "Ticketmaster",
-      "Live Nation Concerts",
-      "Front Line Management Group",
-      "Live Nation Network",
-      "C3 Presents",
-      "AC Entertainment",
-      "Live Nation Merchandise",
-      "Live Nation Tero"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3471,12 +2952,7 @@
     "slug": "loews-corporation",
     "description": "Loews Corporation is an American conglomerate headquartered in New York City. The company's majority-stake holdings include CNA Financial Corporation, Boardwalk Pipeline Partners, Loews Hotels and Altium Packaging.",
     "brands": [],
-    "other_companies": [
-      "Altium Packaging (99%)",
-      "Boardwalk Pipelines",
-      "CNA Financial(89%)",
-      "Loews Hotels"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3484,13 +2960,9 @@
     "id": 294,
     "name": "Lowe's",
     "slug": "lowes",
-    "description": "Lowe's Companies, Inc. (/lo\u028az/ LOHZ) is an American retail company specializing in home improvement.[4] Headquartered in Mooresville, North Carolina, the company operates a chain of retail stores in the United States. As of October 28, 2022, Lowe's and its related businesses operated 2,181 home improvement and hardware stores in North America.[5]",
+    "description": "Lowe's Companies, Inc. (/loʊz/ LOHZ) is an American retail company specializing in home improvement.[4] Headquartered in Mooresville, North Carolina, the company operates a chain of retail stores in the United States. As of October 28, 2022, Lowe's and its related businesses operated 2,181 home improvement and hardware stores in North America.[5]",
     "brands": [],
-    "other_companies": [
-      "Lowe\u2019s Pro Supply",
-      "Artisan Design Group",
-      "Foundation Building Materials"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3498,7 +2970,7 @@
     "id": 295,
     "name": "Lululemon Athletica",
     "slug": "lululemon-athletica",
-    "description": "Lululemon, commonly styled as lululemon (/\u02cclu\u02d0lu\u02c8l\u025bm\u0259n/ \u24d8 loo-loo-LEM-\u0259n; all lowercase[2]), is an American-Canadian[4][5] multinational athletic apparel retailer headquartered in Vancouver, British Columbia, and incorporated in Delaware, United States, as Lululemon Athletica Inc. It was founded in 1998 as a retailer of yoga pants and other yoga wear, and has expanded to also sell sportswear, lifestyle apparel, accessories and personal care products. The company has 767 stores (as of fiscal year 2024[update]) and also processes sales online through its website.[6]",
+    "description": "Lululemon, commonly styled as lululemon (/ˌluːluˈlɛmən/ ⓘ loo-loo-LEM-ən; all lowercase[2]), is an American-Canadian[4][5] multinational athletic apparel retailer headquartered in Vancouver, British Columbia, and incorporated in Delaware, United States, as Lululemon Athletica Inc. It was founded in 1998 as a retailer of yoga pants and other yoga wear, and has expanded to also sell sportswear, lifestyle apparel, accessories and personal care products. The company has 767 stores (as of fiscal year 2024[update]) and also processes sales online through its website.[6]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3520,9 +2992,7 @@
     "slug": "mt-bank",
     "description": "M&T Bank Corporation (Manufacturers and Traders Trust Company) is an American bank holding company headquartered in Buffalo, New York.[3] It operates 950+ branches in 12 states and Washington D.C. across the Eastern United States, from Maine to Virginia.[2][4] Until May 1998, the bank's holding company was named First Empire State Corporation.[5]",
     "brands": [],
-    "other_companies": [
-      "Wilmington Trust"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3540,15 +3010,9 @@
     "id": 299,
     "name": "Marriott International",
     "slug": "marriott-international",
-    "description": "Marriott International, Inc. is an American multinational company that operates, franchises, and licenses lodging brands that include hotel, residential, and timeshare properties.[1][2] Marriott International owns over 37 hotel and timeshare brands with 9,000 locations and 1,597,380 rooms across its network (as of 2023).[3] Marriott International is headquartered in Bethesda, Maryland. The company is the successor to the hospitality division of the Marriott Corporation, founded by J. Willard Marriott (1900\u20131985) and his wife Alice Marriott (1907\u20132000).",
+    "description": "Marriott International, Inc. is an American multinational company that operates, franchises, and licenses lodging brands that include hotel, residential, and timeshare properties.[1][2] Marriott International owns over 37 hotel and timeshare brands with 9,000 locations and 1,597,380 rooms across its network (as of 2023).[3] Marriott International is headquartered in Bethesda, Maryland. The company is the successor to the hospitality division of the Marriott Corporation, founded by J. Willard Marriott (1900–1985) and his wife Alice Marriott (1907–2000).",
     "brands": [],
-    "other_companies": [
-      "Marriott Hotels & Resorts",
-      "The Ritz-Carlton Hotel Company",
-      "Le M\u00e9ridien",
-      "Sheraton Hotels and Resorts",
-      "Westin Hotels & Resorts"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3558,12 +3022,7 @@
     "slug": "marsh-mclennan",
     "description": "Marsh & McLennan Companies, Inc., doing business as Marsh McLennan and Marsh, is a global professional services firm, headquartered in New York City with businesses in insurance brokerage, risk management, reinsurance services, talent management, investment advisory, and management consulting. Its four main operating companies are Marsh (53% of 2024 revenues), which offers risk management, insurance broking, insurance program management, risk consulting, analytical modeling and alternative risk financing services; Marsh Re (formerly Guy Carpenter; 10% of 2024 revenues), a reinsurance intermediary and advisor; Mercer (23% of 2024 revenues), which provides consulting to employers for health insurance, retirement plans, and pension plans; and  Oliver Wyman; 14% of 2024 revenues, including Lippincott and NERA Economic Consulting, which provides consulting services.[1] In 2024, Risk and Insurance Services contributed a total of 63% of revenues and 71% of operating profit, while Consulting contributed 37% of revenues and 29% of operating profit.[1]",
     "brands": [],
-    "other_companies": [
-      "Marsh",
-      "Guy Carpenter",
-      "Mercer",
-      "Oliver Wyman"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3633,10 +3092,7 @@
     "slug": "mckesson-corporation",
     "description": "McKesson Corporation is an American publicly traded company that distributes pharmaceuticals and provides health information technology, medical supplies, and health management tools. The company delivers a third of all pharmaceutical products used or consumed in North America and employs over 80,000 employees.[2][3] With $308.9 billion in 2024 revenue, it is the ninth-largest company by revenue in the United States and the nation's largest health care company. The company is headquartered in Irving, Texas. It is a component of the S&P 500 and is listed on the New York Stock Exchange, where it is traded under the ticker symbol \"MCK\".",
     "brands": [],
-    "other_companies": [
-      "Health Mart",
-      "Uniprix"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3684,7 +3140,7 @@
     "id": 312,
     "name": "Mettler Toledo",
     "slug": "mettler-toledo",
-    "description": "Mettler Toledo,[3] stylized in all caps, is a multinational supplier of precision instruments and services. The company focuses on laboratory, industrial, product inspection, and food retailing applications. Its products are used in research, quality control, and manufacturing processes in life sciences, food, chemical, and many other industries. The company's business is geographically diversified, with sales in 2023 derived 41% from North and South America, 27% from Europe, and 32% from Asia and other countries.[4] The company\u2019s global workforce consists of 17,300 employees as of December 31, 2023.[5]",
+    "description": "Mettler Toledo,[3] stylized in all caps, is a multinational supplier of precision instruments and services. The company focuses on laboratory, industrial, product inspection, and food retailing applications. Its products are used in research, quality control, and manufacturing processes in life sciences, food, chemical, and many other industries. The company's business is geographically diversified, with sales in 2023 derived 41% from North and South America, 27% from Europe, and 32% from Asia and other countries.[4] The company’s global workforce consists of 17,300 employees as of December 31, 2023.[5]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3714,7 +3170,7 @@
     "id": 315,
     "name": "Micron Technology",
     "slug": "micron-technology",
-    "description": "Micron Technology, Inc. is an American semiconductor company that manufactures computer memory and computer data storage products, including dynamic random-access memory (DRAM), flash memory, and solid-state drives (SSDs). Founded in 1978 in Boise, Idaho, Micron is the only major American computer memory manufacturer.[3] It is one of the \u201cBig Three\u201d computer memory manufacturers, together with the South Korean companies Samsung Electronics and SK Hynix.[4]",
+    "description": "Micron Technology, Inc. is an American semiconductor company that manufactures computer memory and computer data storage products, including dynamic random-access memory (DRAM), flash memory, and solid-state drives (SSDs). Founded in 1978 in Boise, Idaho, Micron is the only major American computer memory manufacturer.[3] It is one of the “Big Three” computer memory manufacturers, together with the South Korean companies Samsung Electronics and SK Hynix.[4]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3726,10 +3182,7 @@
     "slug": "microsoft",
     "description": "Microsoft Corporation is an American multinational technology conglomerate headquartered in Redmond, Washington. Founded in 1975, the company became influential in the rise of personal computers through software like Windows, and has since expanded to Internet services, cloud computing, artificial intelligence, video gaming, and other fields. Often described as a Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies,[a] and one of the most valuable brands globally. It is a part of Big Tech along with five other tech companies in the United States, Alphabet (Google), Amazon, Apple, Meta (Facebook), and Nvidia, which are also the largest companies in the world by market capitalization.[2][3][4]",
     "brands": [],
-    "other_companies": [
-      "GitHub",
-      "LinkedIn"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3747,7 +3200,7 @@
     "id": 318,
     "name": "Moderna",
     "slug": "moderna",
-    "description": "Moderna, Inc. (/m\u0259\u02c8d\u025c\u02d0rn\u0259/ m\u0259-DUR-n\u0259)[4] is an American pharmaceutical and biotechnology company based in Cambridge, Massachusetts, that focuses on RNA therapeutics, primarily mRNA vaccines. These vaccines use a copy of a molecule called messenger RNA (mRNA) to carry instructions for proteins to produce an immune response.[5][1] The company's name is derived from the  terms \"modified\", \"RNA\", and \"modern\".[6][7][8]",
+    "description": "Moderna, Inc. (/məˈdɜːrnə/ mə-DUR-nə)[4] is an American pharmaceutical and biotechnology company based in Cambridge, Massachusetts, that focuses on RNA therapeutics, primarily mRNA vaccines. These vaccines use a copy of a molecule called messenger RNA (mRNA) to carry instructions for proteins to produce an immune response.[5][1] The company's name is derived from the  terms \"modified\", \"RNA\", and \"modern\".[6][7][8]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -3769,12 +3222,7 @@
     "slug": "molson-coors-beverage-company",
     "description": "Molson Coors Beverage Company is a Canadian-American multinational drink and brewing company headquartered in Chicago, Illinois and Montreal, Quebec.[4]",
     "brands": [],
-    "other_companies": [
-      "Molson Brewery",
-      "Coors Brewing Company",
-      "Miller Brewing Company",
-      "The Beer Store(49%)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3782,13 +3230,9 @@
     "id": 321,
     "name": "Mondelez International",
     "slug": "mondelez-international",
-    "description": "Mondel\u0113z International, Inc. (/\u02ccm\u0252nd\u0259\u02c8li\u02d0z/ MON-d\u0259-LEEZ)[3] is an American multinational confectionery, food, holding, beverage and snack food company based in Chicago.[4] Mondelez has an annual revenue of about $26.5\u00a0billion and operates in approximately 160 countries.[5] It ranked No.\u00a0108 in the 2021 Fortune\u00a0500 list of the largest United States corporations by total revenue.[6]",
+    "description": "Mondelēz International, Inc. (/ˌmɒndəˈliːz/ MON-də-LEEZ)[3] is an American multinational confectionery, food, holding, beverage and snack food company based in Chicago.[4] Mondelez has an annual revenue of about $26.5 billion and operates in approximately 160 countries.[5] It ranked No. 108 in the 2021 Fortune 500 list of the largest United States corporations by total revenue.[6]",
     "brands": [],
-    "other_companies": [
-      "Cadbury",
-      "Clif Bar & Company",
-      "Nabisco"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3818,10 +3262,7 @@
     "slug": "moodys-corporation",
     "description": "Moody's Corporation is an American business and financial services company. It is the holding company for Moody's Ratings (previously known as Moody's Investors Service), an American credit rating agency, and Moody's (previously known as Moody's Analytics), an American provider of financial analysis software and services.",
     "brands": [],
-    "other_companies": [
-      "Moody's",
-      "Moody's Ratings"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3831,12 +3272,7 @@
     "slug": "morgan-stanley",
     "description": "Morgan Stanley[4] is an American multinational investment bank and financial services company headquartered at 1585 Broadway in Midtown Manhattan, New York City. With offices in 42 countries and more than 80,000 employees, the firm's clients include corporations, governments, institutions, and individuals.[2][4] Morgan Stanley ranked No. 61 in the 2023 Fortune 500 list of the largest United States corporations by total revenue[5] and in the same year ranked No. 30 in the Forbes Global 2000.[6]",
     "brands": [],
-    "other_companies": [
-      "Morgan Stanley Wealth Management",
-      "E-Trade",
-      "Eaton Vance",
-      "Solium"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3856,11 +3292,7 @@
     "slug": "motorola-solutions",
     "description": "Motorola Solutions, Inc., is an American technology company that provides safety and security products and services. Headquartered in Chicago, Illinois,[2] the company provides critical communications, video security, and command center technologies, used by public safety agencies and enterprises. It was formed in 2011 by the division of Motorola, Inc., and is its legal successor; the former company's mobile phone division was spun off as Motorola Mobility, now part of Chinese technology company Lenovo.",
     "brands": [],
-    "other_companies": [
-      "Airwave Solutions",
-      "Avigilon",
-      "Pelco"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3880,13 +3312,7 @@
     "slug": "nasdaq-inc",
     "description": "Nasdaq, Inc. is an American multinational financial services corporation providing data, analytics, software, exchange capabilities, and advisory services to corporate clients, investment managers, banks, brokers, and exchange operators across the global financial system. Nasdaq was founded in 1971 as the world's first electronic stock market, and became publicly traded in 2000. It is headquartered in New York City, and its chair and chief executive officer is Adena Friedman.",
     "brands": [],
-    "other_companies": [
-      "International Securities Exchange",
-      "Nasdaq",
-      "Nasdaq Nordic",
-      "Adenza",
-      "Verafin"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3906,29 +3332,7 @@
     "slug": "netflix",
     "description": "Netflix, Inc. is an American media company founded on August 29, 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California, and currently based in Los Gatos, California, with production offices and stages at the Los Angeles-based Hollywood studios (formerly old Warner Brothers studios) and the Albuquerque Studios (formerly ABQ studios). It operates an eponymous over-the-top subscription video on-demand service, which showcases acquired and original programming as well as third-party content licensed from other production companies and distributors. Netflix is also the first streaming media company to be a member of the Motion Picture Association.",
     "brands": [],
-    "other_companies": [
-      "Hollywood Studios",
-      "Albuquerque Studios",
-      "London Shepperton Studios",
-      "Madrid Tres Cantos Studios",
-      "Vancouver Martini Studios",
-      "Toronto Pinewood/Cinespace Studios",
-      "Netflix Pictures",
-      "Netflix Studios",
-      "Netflix Animation Studios",
-      "Netflix Music",
-      "Fast.com",
-      "Millarworld",
-      "StoryBots, Inc.",
-      "Grauman's Egyptian Theatre",
-      "Broke and Bones (stake)",
-      "Roald DahlStory Company",
-      "Night School Studio",
-      "Netflix Pty Ltd",
-      "Eyeline",
-      "Next Games",
-      "Fort Monmouth Studios"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3938,11 +3342,7 @@
     "slug": "newmont",
     "description": "Newmont Corporation is an American gold mining company based in Denver, Colorado. \nIt is the world's largest gold mining corporation.[2] Incorporated in 1921, it holds ownership of gold mines in the United States, Canada, Mexico, the Dominican Republic, Australia, Ghana, Argentina, Peru, and Suriname.  Newmont is also a partial owner of Nevada Gold Mines in Nevada with Barrick Mining being the majority owner and operator.[3] In addition to gold, Newmont mines copper, silver, zinc and lead.[4]",
     "brands": [],
-    "other_companies": [
-      "Goldcorp",
-      "Oroplata S.A.",
-      "South Kalgoorlie Gold Mine"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -3972,10 +3372,7 @@
     "slug": "nextera-energy",
     "description": "NextEra Energy, Inc. is an American energy company that is the world's largest electric utility holding company by market capitalization, with a valuation of over $170 billion as of Oct 2024.[5] NextEra Energy had revenues of $24.8 billion and 16,700 employees throughout the US and Canada in 2024.[6][7] It has a current generating capacity of 73 gigawatts.[8] Its subsidiaries include Florida Power & Light (FPL), NextEra Energy Resources (NEER), XPLR Energy Partners, and NextEra Energy Services.",
     "brands": [],
-    "other_companies": [
-      "Florida Power & Light",
-      "NextEra Energy Resources"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4013,7 +3410,7 @@
     "id": 339,
     "name": "Norfolk Southern",
     "slug": "norfolk-southern",
-    "description": "The Norfolk Southern Railway (reporting mark NS) is a Class I freight railroad operating in the Eastern United States. Headquartered in Atlanta, the company was formed in 1982 with the merger of the Norfolk and Western Railway and Southern Railway.[4] The company operates 19,420 route miles (31,250\u00a0km) in 22 eastern states and the District of Columbia,[5] and has rights in Canada over the Albany to Montreal route of the Canadian Pacific Kansas City.[6][7] Norfolk Southern Railway is the leading subsidiary of the Norfolk Southern Corporation.",
+    "description": "The Norfolk Southern Railway (reporting mark NS) is a Class I freight railroad operating in the Eastern United States. Headquartered in Atlanta, the company was formed in 1982 with the merger of the Norfolk and Western Railway and Southern Railway.[4] The company operates 19,420 route miles (31,250 km) in 22 eastern states and the District of Columbia,[5] and has rights in Canada over the Albany to Montreal route of the Canadian Pacific Kansas City.[6][7] Norfolk Southern Railway is the leading subsidiary of the Norfolk Southern Corporation.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4023,7 +3420,7 @@
     "id": 340,
     "name": "Northern Trust",
     "slug": "northern-trust",
-    "description": "Northern Trust Corporation is an American financial services company headquartered in Chicago, Illinois, that caters to corporations, institutional investors, and ultra high net worth individuals. Northern Trust is one of the largest banking institutions in the United States and one of the oldest banks in continuous operation. As of December 31, 2025, it had $1.8\u00a0trillion in assets under management and $14.9\u00a0trillion in assets under custody. Northern Trust Corporation is incorporated in Delaware.[3]",
+    "description": "Northern Trust Corporation is an American financial services company headquartered in Chicago, Illinois, that caters to corporations, institutional investors, and ultra high net worth individuals. Northern Trust is one of the largest banking institutions in the United States and one of the oldest banks in continuous operation. As of December 31, 2025, it had $1.8 trillion in assets under management and $14.9 trillion in assets under custody. Northern Trust Corporation is incorporated in Delaware.[3]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4045,11 +3442,7 @@
     "slug": "norwegian-cruise-line-holdings",
     "description": "Norwegian Cruise Line Holdings (NCLH) is a holding company that is based in the United States and domiciled in Bermuda.[3][4] It operates three cruise lines as wholly owned subsidiaries: Norwegian Cruise Line, Oceania Cruises, and Regent Seven Seas Cruises. With its subsidiaries combined, it is the third-largest cruise operator in the world. It is a publicly traded company listed on the New York Stock Exchange.",
     "brands": [],
-    "other_companies": [
-      "Norwegian Cruise Line",
-      "Oceania Cruises",
-      "Regent Seven Seas Cruises"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4059,12 +3452,7 @@
     "slug": "nrg-energy",
     "description": "NRG Energy, Inc. is an American energy company, headquartered in Houston, Texas.[2][3] It was formerly the wholesale arm of Northern States Power Company (NSP), which became Xcel Energy, but became independent in 2000. NRG Energy is involved in energy generation and retail electricity.[4] Their portfolio includes natural gas generation, coal generation, oil generation, nuclear generation, wind generation, utility-scale generation, and distributed solar generation.[5][6] NRG serves over 7 million retail customers in 24 US states including Texas, Connecticut, Delaware, Illinois, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, Ohio; the District of Columbia, and eight provinces in Canada.[7][8]",
     "brands": [],
-    "other_companies": [
-      "Reliant Energy",
-      "Direct Energy",
-      "Stream Energy",
-      "Green Mountain Energy"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4082,15 +3470,9 @@
     "id": 345,
     "name": "Nvidia",
     "slug": "nvidia",
-    "description": "Nvidia Corporation[a] (/\u025bn\u02c8v\u026adi\u0259/ en-VID-ee-\u0259) is an American technology company headquartered in Santa Clara, California. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, it develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, video games, and mobile and automotive applications.[5][6] Nvidia has been described as a Big Tech company.",
+    "description": "Nvidia Corporation[a] (/ɛnˈvɪdiə/ en-VID-ee-ə) is an American technology company headquartered in Santa Clara, California. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, it develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, video games, and mobile and automotive applications.[5][6] Nvidia has been described as a Big Tech company.",
     "brands": [],
-    "other_companies": [
-      "Bright Computing",
-      "Cumulus Networks",
-      "DeepMap",
-      "Mellanox Technologies",
-      "Mental Images"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4116,9 +3498,9 @@
   },
   {
     "id": 348,
-    "name": "O\u2019Reilly Automotive",
+    "name": "O’Reilly Automotive",
     "slug": "oreilly-automotive",
-    "description": "O'Reilly Automotive, Inc., doing business as O'Reilly Auto Parts, is an American automotive part retailer that provides automotive parts, tools, supplies, equipment, and accessories to professional service providers and do-it-yourself customers. Founded in 1957 by the O\u2019Reilly family, O'Reilly Auto Parts operates more than 6,400 stores in 48 states, Puerto Rico, Mexico, and Canada.[2]",
+    "description": "O'Reilly Automotive, Inc., doing business as O'Reilly Auto Parts, is an American automotive part retailer that provides automotive parts, tools, supplies, equipment, and accessories to professional service providers and do-it-yourself customers. Founded in 1957 by the O’Reilly family, O'Reilly Auto Parts operates more than 6,400 stores in 48 states, Puerto Rico, Mexico, and Canada.[2]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4150,14 +3532,7 @@
     "slug": "omnicom-group",
     "description": "Omnicom Group Inc. is an American global media, marketing, and corporate communications holding company, headquartered in New York City.",
     "brands": [],
-    "other_companies": [
-      "BBDO Worldwide",
-      "Wolff Olins",
-      "DDB Worldwide",
-      "DAS Group of Companies",
-      "Omnicom Media Group",
-      "TBWA Worldwide"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4175,11 +3550,9 @@
     "id": 353,
     "name": "Oneok",
     "slug": "oneok",
-    "description": "Oneok, Inc. (/\u02c8w\u028cn\u02cco\u028ak/) ONE-oak, stylized as ONEOK, is an American oil and gas midstream operator headquartered in Tulsa, Oklahoma. It provides the oil and gas industry with gathering, processing, fractionation, transportation, and storage services. The company is part of the Fortune 500 and S&P 500.[2] Oneok was founded as Oklahoma Natural Gas Company in 1906, but it changed its corporate name to Oneok in 1980.",
+    "description": "Oneok, Inc. (/ˈwʌnˌoʊk/) ONE-oak, stylized as ONEOK, is an American oil and gas midstream operator headquartered in Tulsa, Oklahoma. It provides the oil and gas industry with gathering, processing, fractionation, transportation, and storage services. The company is part of the Fortune 500 and S&P 500.[2] Oneok was founded as Oklahoma Natural Gas Company in 1906, but it changed its corporate name to Oneok in 1980.",
     "brands": [],
-    "other_companies": [
-      "Magellan Midstream Partners"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4209,45 +3582,7 @@
     "slug": "paccar",
     "description": "Paccar Inc. (stylized as PACCAR) is an American company that manufactures heavy-duty trucks. It operates subsidiaries including Kenworth, Peterbilt, and DAF Trucks. Headquartered in Bellevue, Washington, PACCAR also provides financial services and industrial parts. Its stock is listed on the Nasdaq and is part of the S&P 500 index.",
     "brands": [],
-    "other_companies": [
-      "TransportationKenworthPeterbiltDAF TrucksTatra(19%)[1][2]Leyland TrucksFinancial servicesPaccar Financial Corp.PacLeaseEquipmentWinchBradenCarcoGermaticAftermarket partsPaccar PartsPaccar Parts EuropePaccar Parts South AmericaInternational salesPaccar Global SalesInformation technologyPaccar ITDTruck componentsDynacraftResearch and developmentPaccar Technical CenterDAF Central LabEngine manufacturingPaccar Engine CompanyInternationalPaccar AustraliaKenworth AustraliaDAF Trucks AustraliaPaccar New ZealandSouthpac TrucksALL RIG PartsPaccar MexicanaKenworth MexicanaPeterbilt MexicanaPaccar CanadaKenworth CanadaPeterbilt CanadaPaccar IndiaPaccar ChinaPaccar BrazilDAF Trucks Brazil",
-      "Kenworth",
-      "Peterbilt",
-      "DAF TrucksTatra(19%)[1][2]",
-      "Tatra(19%)[1][2]",
-      "Leyland Trucks",
-      "Paccar Financial Corp.",
-      "PacLease",
-      "WinchBradenCarcoGermatic",
-      "Braden",
-      "Carco",
-      "Germatic",
-      "Paccar PartsPaccar Parts EuropePaccar Parts South America",
-      "Paccar Parts Europe",
-      "Paccar Parts South America",
-      "Paccar Global Sales",
-      "Paccar ITD",
-      "Dynacraft",
-      "Paccar Technical Center",
-      "DAF Central Lab",
-      "Paccar Engine Company",
-      "Paccar AustraliaKenworth AustraliaDAF Trucks Australia",
-      "Kenworth Australia",
-      "DAF Trucks Australia",
-      "Paccar New ZealandSouthpac TrucksALL RIG Parts",
-      "Southpac Trucks",
-      "ALL RIG Parts",
-      "Paccar MexicanaKenworth MexicanaPeterbilt Mexicana",
-      "Kenworth Mexicana",
-      "Peterbilt Mexicana",
-      "Paccar CanadaKenworth CanadaPeterbilt Canada",
-      "Kenworth Canada",
-      "Peterbilt Canada",
-      "Paccar India",
-      "Paccar China",
-      "Paccar BrazilDAF Trucks Brazil",
-      "DAF Trucks Brazil"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4265,7 +3600,7 @@
     "id": 358,
     "name": "Palantir Technologies",
     "slug": "palantir-technologies",
-    "description": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies, militaries, and corporations to combine and analyze data from multiple sources. Its flagship products\u2014Gotham (for intelligence and defense) and Foundry (for commercial and civil use)\u2014connect previously siloed databases to support intelligence operations, counterterrorism analysis, law enforcement, and enterprise analytics.[3] Headquartered in Miami, Florida, it was founded in 2003 by Peter Thiel,[4] Stephen Cohen,[5] Joe Lonsdale,[6] Alex Karp,[7] and Nathan Gettings.[8][9]",
+    "description": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies, militaries, and corporations to combine and analyze data from multiple sources. Its flagship products—Gotham (for intelligence and defense) and Foundry (for commercial and civil use)—connect previously siloed databases to support intelligence operations, counterterrorism analysis, law enforcement, and enterprise analytics.[3] Headquartered in Miami, Florida, it was founded in 2003 by Peter Thiel,[4] Stephen Cohen,[5] Joe Lonsdale,[6] Alex Karp,[7] and Nathan Gettings.[8][9]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4327,15 +3662,7 @@
     "slug": "paypal",
     "description": "PayPal Holdings, Inc. is an American multinational financial technology company operating an online payments system in the majority of countries that support online money transfers; it serves as an electronic alternative to traditional paper methods such as checks and money orders. The company operates as a payment processor for online vendors, auction sites and many other commercial and company users.",
     "brands": [],
-    "other_companies": [
-      "Braintree",
-      "PayPal Honey",
-      "Paydiant",
-      "PayPal Credit",
-      "Venmo",
-      "Xoom",
-      "Zettle"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4363,7 +3690,7 @@
     "id": 367,
     "name": "Pfizer",
     "slug": "pfizer",
-    "description": "Pfizer Inc. (/\u02c8fa\u026az\u0259r/ FY-z\u0259r)[2] is an American multinational pharmaceutical and biotechnology corporation headquartered at The Spiral in Manhattan, New York City. Founded in 1849 in New York by German entrepreneurs Charles Pfizer (1824\u20131906) and Charles F. Erhart (1821\u20131891), Pfizer is one of the oldest pharmaceutical companies in North America.",
+    "description": "Pfizer Inc. (/ˈfaɪzər/ FY-zər)[2] is an American multinational pharmaceutical and biotechnology corporation headquartered at The Spiral in Manhattan, New York City. Founded in 1849 in New York by German entrepreneurs Charles Pfizer (1824–1906) and Charles F. Erhart (1821–1891), Pfizer is one of the oldest pharmaceutical companies in North America.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4373,7 +3700,7 @@
     "id": 368,
     "name": "PG&E Corporation",
     "slug": "pge-corporation",
-    "description": "Pacific Gas and Electric Company (PG&E) is an American investor-owned utility (IOU).[2] The company is headquartered at Kaiser Center, in Oakland, California. PG&E provides natural gas and electricity to 5.2 million households in the northern two-thirds of California, from Bakersfield and northern Santa Barbara County, almost to the Oregon and Nevada state lines.[3]:\u200a27\u200a[4]",
+    "description": "Pacific Gas and Electric Company (PG&E) is an American investor-owned utility (IOU).[2] The company is headquartered at Kaiser Center, in Oakland, California. PG&E provides natural gas and electricity to 5.2 million households in the northern two-thirds of California, from Bakersfield and northern Santa Barbara County, almost to the Oregon and Nevada state lines.[3]: 27 [4]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4383,15 +3710,9 @@
     "id": 369,
     "name": "Philip Morris International",
     "slug": "philip-morris-international",
-    "description": "Philip Morris International Inc. (PMI) is a tobacco company, with products sold in over 180 countries. Marlboro is PMI\u2019s most recognized brand, but in the last quarter of 2023, Iqos generated the greatest revenue.[2] Philip Morris International is often referred to as one of the companies comprising Big Tobacco. The company ranked No. 121 in the 2025 Fortune 500 list of the largest US corporations by total revenue.[3]",
+    "description": "Philip Morris International Inc. (PMI) is a tobacco company, with products sold in over 180 countries. Marlboro is PMI’s most recognized brand, but in the last quarter of 2023, Iqos generated the greatest revenue.[2] Philip Morris International is often referred to as one of the companies comprising Big Tobacco. The company ranked No. 121 in the 2025 Fortune 500 list of the largest US corporations by total revenue.[3]",
     "brands": [],
-    "other_companies": [
-      "Papastratos",
-      "PMFTC, Inc.",
-      "Rothmans, Benson & Hedges",
-      "Sampoerna",
-      "Swedish Match"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4399,7 +3720,7 @@
     "id": 370,
     "name": "Phillips 66",
     "slug": "phillips-66",
-    "description": "The Phillips 66 Company is an American multinational energy company headquartered in Westchase, Houston, Texas. Its name, dating back to 1927 as a trademark of the Phillips Petroleum Company, assisted in establishing the newly reconfigured Phillips 66. The company today was formed ten years after Phillips merged with Conoco to form ConocoPhillips. The merged company spun off its refining, chemical, and retail assets \u2013 known in the oil industry as downstream operations \u2013 into a new company bearing the Phillips 66 name. It began trading on the New York Stock Exchange on May 1, 2012, under the ticker PSX.",
+    "description": "The Phillips 66 Company is an American multinational energy company headquartered in Westchase, Houston, Texas. Its name, dating back to 1927 as a trademark of the Phillips Petroleum Company, assisted in establishing the newly reconfigured Phillips 66. The company today was formed ten years after Phillips merged with Conoco to form ConocoPhillips. The merged company spun off its refining, chemical, and retail assets – known in the oil industry as downstream operations – into a new company bearing the Phillips 66 name. It began trading on the New York Stock Exchange on May 1, 2012, under the ticker PSX.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4449,7 +3770,7 @@
     "id": 375,
     "name": "PPL Corporation",
     "slug": "ppl-corporation",
-    "description": "PPL Corporation is an energy company headquartered in Allentown, Pennsylvania in the Lehigh Valley region of eastern Pennsylvania. The company is publicly traded on the New York Stock Exchange as NYSE:\u00a0PPL and is part of the S&P 500. As of 2022, the company had $7.9 billion in revenue, 6,500 employees, over $37 billion in assets, and serves 3.6 million customers.[1]",
+    "description": "PPL Corporation is an energy company headquartered in Allentown, Pennsylvania in the Lehigh Valley region of eastern Pennsylvania. The company is publicly traded on the New York Stock Exchange as NYSE: PPL and is part of the S&P 500. As of 2022, the company had $7.9 billion in revenue, 6,500 employees, over $37 billion in assets, and serves 3.6 million customers.[1]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4471,13 +3792,7 @@
     "slug": "procter-gamble",
     "description": "The Procter & Gamble Company (P&G) is an American multinational consumer goods corporation incorporated and headquartered in Cincinnati, Ohio.[1]",
     "brands": [],
-    "other_companies": [
-      "Procter & Gamble Korea",
-      "Procter & Gamble Pakistan",
-      "Procter & Gamble Philippines",
-      "Procter & Gamble Australia Pty. Ltd.",
-      "Braun"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4495,7 +3810,7 @@
     "id": 379,
     "name": "Prologis",
     "slug": "prologis",
-    "description": "Prologis, Inc. is a real estate investment trust headquartered in San Francisco, California that invests in logistics facilities.[6] The company was formed through the merger of AMB Property Corporation and Prologis in June 2011, which made Prologis the largest industrial real estate company in the world.[7][8] As of 2025, the company operates more than 15,000 land acres and over 6,000 buildings[9] comprising about 1.3 billion square feet in 20 countries[10][11] across North America, Latin America, Europe, and Asia.[12] According to\u00a0The Economist, its business strategy is focused on warehouses that are located close to huge urban areas where land is scarce.[13] It serves about 6,600 tenants.[14] Prologis began to expand its non-real estate business, Essentials, in 2018, offering customers solar power, racking systems, forklifts, generators,[15] EV charging infrastructure,[16] and other logistics tech equipment for purchase.",
+    "description": "Prologis, Inc. is a real estate investment trust headquartered in San Francisco, California that invests in logistics facilities.[6] The company was formed through the merger of AMB Property Corporation and Prologis in June 2011, which made Prologis the largest industrial real estate company in the world.[7][8] As of 2025, the company operates more than 15,000 land acres and over 6,000 buildings[9] comprising about 1.3 billion square feet in 20 countries[10][11] across North America, Latin America, Europe, and Asia.[12] According to The Economist, its business strategy is focused on warehouses that are located close to huge urban areas where land is scarce.[13] It serves about 6,600 tenants.[14] Prologis began to expand its non-real estate business, Essentials, in 2018, offering customers solar power, racking systems, forklifts, generators,[15] EV charging infrastructure,[16] and other logistics tech equipment for purchase.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4517,10 +3832,7 @@
     "slug": "public-service-enterprise-group",
     "description": "The Public Service Enterprise Group, Inc. (PSEG) is a publicly traded energy company based in Newark, New Jersey, where it has been based since its founding.[4] It was founded in 1985, with its roots tracing back to 1903.",
     "brands": [],
-    "other_companies": [
-      "PSE&G, PSEG Power",
-      "PSEG Long Island"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4568,17 +3880,9 @@
     "id": 386,
     "name": "Qualcomm",
     "slug": "qualcomm",
-    "description": "Qualcomm Incorporated (/\u02c8kw\u0252lk\u0252m/)[2] is an American multinational corporation headquartered in San Diego, California, and incorporated in Delaware.[3] It creates semiconductors, software and services related to wireless technology. It owns patents critical to the 5G, 4G,[4] CDMA2000, TD-SCDMA and WCDMA mobile communications standards.",
+    "description": "Qualcomm Incorporated (/ˈkwɒlkɒm/)[2] is an American multinational corporation headquartered in San Diego, California, and incorporated in Delaware.[3] It creates semiconductors, software and services related to wireless technology. It owns patents critical to the 5G, 4G,[4] CDMA2000, TD-SCDMA and WCDMA mobile communications standards.",
     "brands": [],
-    "other_companies": [
-      "Airgo Networks",
-      "CSR plc",
-      "Ikanos Communications",
-      "Nuvia",
-      "Qualcomm Atheros",
-      "SiRF",
-      "Arduino"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4608,13 +3912,7 @@
     "slug": "ralph-lauren-corporation",
     "description": "Ralph Lauren Corporation is a publicly traded American fashion and lifestyle brand founded in 1967 by Ralph Lauren in New York City. The company markets products in apparel, home, accessories, and fragrances, and is most known for its flagship brand, Polo Ralph Lauren. The company's brands include mid-range, sub-premium, and premium labels up to its highest priced luxury Ralph Lauren Purple Label apparel.",
     "brands": [],
-    "other_companies": [
-      "Polo Jeans Company, LLC",
-      "Ralph Lauren Home Collections, Inc.",
-      "Ralph Lauren Media, LLC",
-      "Ralph Lauren Watch and Jewelry Company S\u00c0RL (50%)",
-      "RL Fragrances, LLC"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4634,11 +3932,7 @@
     "slug": "rtx-corporation",
     "description": "RTX Corporation, formerly Raytheon Technologies Corporation,[3][4] is an American multinational aerospace and defense conglomerate headquartered in Arlington, Virginia. It is one of the largest aerospace and defense manufacturers in the world by revenue and market capitalization, as well as one of the largest providers of intelligence services.[note 1] In 2023, the company's seat in the Forbes Global 2000 was 79. RTX manufactures aircraft engines, avionics, aerostructures, cybersecurity solutions, guided missiles, air defense systems, satellites, and drones. The company is a large military contractor, getting much of its revenue from the U.S. government.",
     "brands": [],
-    "other_companies": [
-      "Collins Aerospace",
-      "Pratt & Whitney",
-      "Raytheon"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4678,15 +3972,7 @@
     "slug": "regions-financial-corporation",
     "description": "Regions Financial Corporation is an American bank holding company headquartered in the Regions Center in Birmingham, Alabama.[3] The company provides retail and commercial banking, trust, stock brokerage, and mortgage services. Its banking subsidiary, Regions Bank, operates about 2,000 automated teller machines and 1,300 branches in 15 states in the Southern and Midwestern United States.[4]",
     "brands": [],
-    "other_companies": [
-      "Sabal Capital Partners",
-      "Ascentium Capital",
-      "Highland Associates",
-      "FMLS",
-      "BlackArch Partners",
-      "Clearsight Advisors",
-      "Regions Equipment Finance Corporation (REFCO)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4716,12 +4002,7 @@
     "slug": "revvity",
     "description": "Revvity, Inc. is an American company in the life sciences and diagnostics business that is focused on selling to the pharmaceutical and biotechnology industries,[2] especially in relation to approaches making use of new cell therapy or gene therapy developments.[3] Its origins lie with the long-existing company PerkinElmer, which has been in a variety of business lines.[4]",
     "brands": [],
-    "other_companies": [
-      "BioLegend",
-      "EUROIMMUN",
-      "Tulip Diagnostics",
-      "ViaCord"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4751,10 +4032,7 @@
     "slug": "rollins-inc",
     "description": "Rollins, Inc. is a North American pest control company serving residential and commercial clients. Operating globally through its wholly owned subsidiaries, Orkin, Inc., PCO Services (now Orkin Canada),[2] HomeTeam Pest Defense, Western Pest Services, Industrial Fumigant Company, TruTech, Critter Control, Crane, Waltham, OPC Services, PermaTreat, Northwest Exterminating, McCall Service and Clark Pest Control,[3] as well UK subsidiaries Integrated Pest Management Limited, Safeguard Pest Control, NBC Environment, Europest Environmental Services, Guardian Pest Control, Ames, Kestrel and Beaver Pest Control, with Australian subsidiaries Allpest, Scientific Pest Control, Murray Pest Control and Statewide Pest Control, and Singapore subsidiary Aardwolf Pestkare, the company provides pest control services and protection against termite damage, rodents and insects to over 2.8 million customers in the US, Canada, United Kingdom, Mexico, Central America, the Caribbean, the Middle East and Asia from over 800 locations.",
     "brands": [],
-    "other_companies": [
-      "Orkin",
-      "Western Pest Services"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4784,14 +4062,7 @@
     "slug": "royal-caribbean-group",
     "description": "Royal Caribbean Group, formerly known as Royal Caribbean Cruises Ltd., is a cruise holding company headquartered in Miami, Florida, United States and incorporated in Liberia. It is the world's second-largest cruise line operator, after Carnival Corporation & plc. As of September 2025, Royal Caribbean Group fully owns three cruise lines: Royal Caribbean International, Celebrity Cruises, and Silversea Cruises.[3] It also holds a 50% stake in TUI Cruises, which operates Mein Schiff and Hapag-Lloyd Cruises, with the Group's global fleet consisting of 69 ships.[4][5]",
     "brands": [],
-    "other_companies": [
-      "Royal Caribbean International",
-      "Celebrity Cruises",
-      "Silversea Cruises",
-      "TUI Cruises(50%)",
-      "Hapag-Lloyd cruises(50%)",
-      "Holistica (50%)\nGrand Bahama Shipyard (40%)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4799,18 +4070,9 @@
     "id": 405,
     "name": "S&P Global",
     "slug": "sp-global",
-    "description": "S&P Global Inc. (prior to 2016, McGraw Hill Financial, Inc., and prior to 2013, The McGraw\u2013Hill Companies, Inc.) is an American publicly traded corporation headquartered in Manhattan, New York. Its primary areas of business are financial information, analytics, and energy and commodities intelligence. It is the parent company of S&P Global Ratings, S&P Global Energy, S&P Global Market Intelligence, S&P Global Mobility, and the Indian credit rating agency CRISIL. It is also the majority owner of the S&P Dow Jones Indices joint venture. \"S&P\" is a shortening of \"Standard and Poor's\".",
+    "description": "S&P Global Inc. (prior to 2016, McGraw Hill Financial, Inc., and prior to 2013, The McGraw–Hill Companies, Inc.) is an American publicly traded corporation headquartered in Manhattan, New York. Its primary areas of business are financial information, analytics, and energy and commodities intelligence. It is the parent company of S&P Global Ratings, S&P Global Energy, S&P Global Market Intelligence, S&P Global Mobility, and the Indian credit rating agency CRISIL. It is also the majority owner of the S&P Dow Jones Indices joint venture. \"S&P\" is a shortening of \"Standard and Poor's\".",
     "brands": [],
-    "other_companies": [
-      "S&P Global Ratings",
-      "S&P Global Energy",
-      "CRISIL",
-      "S&P Dow Jones Indices",
-      "S&P Global Market Intelligence",
-      "S&P Global Mobility",
-      "S&P Global Sustainable1",
-      "Kensho Technologies"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4820,15 +4082,7 @@
     "slug": "salesforce",
     "description": "Salesforce, Inc., is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales, customer service, marketing automation, e-commerce, analytics, artificial intelligence, agentic AI, and application development.",
     "brands": [],
-    "other_companies": [
-      "Quip",
-      "Heroku",
-      "MuleSoft",
-      "Tableau Software",
-      "Acumen Solutions",
-      "Slack Technologies",
-      "Informatica"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4836,7 +4090,7 @@
     "id": 407,
     "name": "Sandisk",
     "slug": "sandisk",
-    "description": "Sandisk Corporation (sometimes stylized as SanDisk, with the D capitalized in camelCase) is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory products, including memory cards, USB flash drives, and solid-state drives. It was founded in 1988 as SunDisk by Eli Harari, Sanjay Mehrotra, and Jack Yuan. The name is a portmanteau of the founder\u2019s name Sanjay and disk.",
+    "description": "Sandisk Corporation (sometimes stylized as SanDisk, with the D capitalized in camelCase) is an American multinational computer technology company based in Milpitas, California, that designs and manufactures flash memory products, including memory cards, USB flash drives, and solid-state drives. It was founded in 1988 as SunDisk by Eli Harari, Sanjay Mehrotra, and Jack Yuan. The name is a portmanteau of the founder’s name Sanjay and disk.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4856,7 +4110,7 @@
     "id": 409,
     "name": "Schlumberger",
     "slug": "schlumberger",
-    "description": "SLB,[2] formerly known as Schlumberger (French: [\u0283lumb\u025b\u0281\u0292e, \u0283l\u0153\u0303b-]),[3] is an American multinational oilfield services company.[4][5] Founded in France in 1926,[6][7] the company is now incorporated as SLB N.V. in Willemstad, Cura\u00e7ao,[2] with principal executive offices in four cities: Paris, France; Houston, Texas, United States; London, UK; and The Hague, Netherlands.[8][9][10] As of 2022, it is both the world's largest offshore drilling company and the world's largest offshore drilling contractor by revenue.[11]",
+    "description": "SLB,[2] formerly known as Schlumberger (French: [ʃlumbɛʁʒe, ʃlœ̃b-]),[3] is an American multinational oilfield services company.[4][5] Founded in France in 1926,[6][7] the company is now incorporated as SLB N.V. in Willemstad, Curaçao,[2] with principal executive offices in four cities: Paris, France; Houston, Texas, United States; London, UK; and The Hague, Netherlands.[8][9][10] As of 2022, it is both the world's largest offshore drilling company and the world's largest offshore drilling contractor by revenue.[11]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4878,12 +4132,7 @@
     "slug": "sempra",
     "description": "Sempra is a North American public utility holding company based in San Diego, California. The company is one of the largest utility holding companies in the United States with nearly 40 million consumers. Sempra's focus is on electric and natural gas infrastructure and its operating companies include: Southern California Gas Company (SoCalGas) and San Diego Gas & Electric (SDGE) in Southern California; Oncor Electric Delivery Company in Texas; and Sempra Infrastructure, with offices in California and Texas.",
     "brands": [],
-    "other_companies": [
-      "SDG&E",
-      "SoCalGas",
-      "Oncor",
-      "Sempra Infrastructure"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4913,16 +4162,7 @@
     "slug": "simon-property-group",
     "description": "Simon Media Properties, LLC, doing business as Simon Property Group, Inc., is an American real estate investment trust that invests in shopping malls, outlet centers, and community/lifestyle centers. It is the largest owner of shopping malls in the United States[4][5] and is headquartered in Indianapolis, Indiana. As of December 31, 2024, it owned  interests in 232 properties.[2]",
     "brands": [],
-    "other_companies": [
-      "Simon Malls",
-      "Premium Outlets",
-      "The Mills Corporation",
-      "The Kravco Company",
-      "Kl\u00e9pierre",
-      "Taubman Realty Group",
-      "JCPenney[1]",
-      "Jamestown L.P."
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4942,10 +4182,7 @@
     "slug": "jm-smucker-company-the",
     "description": "The J.M. Smucker Company, also known as Smucker's, is an American manufacturer of food and beverage products. Headquartered in Orrville, Ohio,[3] the company was founded in 1897 as a maker of apple butter.[4] J.M. Smucker currently has three major business units: consumer foods, pet foods, and coffee.[5] Its flagship brand, Smucker's, produces fruit preserves, peanut butter, syrups, frozen crustless sandwiches, and ice cream toppings.[6]",
     "brands": [],
-    "other_companies": [
-      "Big Heart Pet Brands",
-      "Hostess Brands"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -4963,7 +4200,7 @@
     "id": 418,
     "name": "Snap-on",
     "slug": "snap-on",
-    "description": "Snap-on Incorporated is an American designer, manufacturer, and marketer of high-end tools and equipment for professional use in the transportation industry, including the automotive, heavy duty, equipment, marine, aviation, and railroad industries. Headquartered in Kenosha, Wisconsin, since 1930, Snap-on also distributes lower-end tools under the brand name Blue-Point. Their primary competitors include\u00a0Matco,\u00a0Mac Tools, and Cornwell Tools.",
+    "description": "Snap-on Incorporated is an American designer, manufacturer, and marketer of high-end tools and equipment for professional use in the transportation industry, including the automotive, heavy duty, equipment, marine, aviation, and railroad industries. Headquartered in Kenosha, Wisconsin, since 1930, Snap-on also distributes lower-end tools under the brand name Blue-Point. Their primary competitors include Matco, Mac Tools, and Cornwell Tools.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -4983,7 +4220,7 @@
     "id": 420,
     "name": "Southern Company",
     "slug": "southern-company",
-    "description": "Southern Company is an American gas and electric utility holding company based in the Southern United States. It is headquartered in Atlanta, Georgia, with executive offices located in Birmingham, Alabama. As of 2021 it is the second largest utility company in the U.S. in terms of customer base. Through its subsidiaries it serves 9 million gas and electric utility customers in 6 states. Southern Company's regulated regional electric utilities serve a 120,000-square-mile (310,000\u00a0km2) territory with 27,000 miles (43,000\u00a0km) of distribution lines.[4]",
+    "description": "Southern Company is an American gas and electric utility holding company based in the Southern United States. It is headquartered in Atlanta, Georgia, with executive offices located in Birmingham, Alabama. As of 2021 it is the second largest utility company in the U.S. in terms of customer base. Through its subsidiaries it serves 9 million gas and electric utility customers in 6 states. Southern Company's regulated regional electric utilities serve a 120,000-square-mile (310,000 km2) territory with 27,000 miles (43,000 km) of distribution lines.[4]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -5015,15 +4252,7 @@
     "slug": "starbucks",
     "description": "Starbucks Corporation is an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. It was founded in 1971 by Jerry Baldwin, Zev Siegl, and Gordon Bowker at Seattle's Pike Place Market initially as a coffee bean wholesaler. Starbucks was converted into a coffee shop serving espresso-based drinks under the ownership of Howard Schultz, who was chief executive officer from 1986 to 2000 and led the aggressive expansion of the franchise across the West Coast of the United States.",
     "brands": [],
-    "other_companies": [
-      "Starbucks Coffee Company",
-      "Ethos Water",
-      "Hear Music",
-      "La Boulange Bakery",
-      "Teavana",
-      "Torrefazione Italia",
-      "Tata Starbucks (India)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5033,9 +4262,7 @@
     "slug": "state-street-corporation",
     "description": "State Street Corporation is an American multinational[2] financial services and bank holding company headquartered at One Congress Street in Boston. It is the second-oldest continuously operating U.S. bank, tracing its roots to Union Bank, chartered in 1792. As of the third quarter of 2025, State Street is one of the world's largest asset managers and custodians, with approximately US$5.4 trillion in assets under management and US$51.7 trillion under custody and administration.[3]",
     "brands": [],
-    "other_companies": [
-      "State Street Bank and Trust Company"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5123,7 +4350,7 @@
     "id": 433,
     "name": "T. Rowe Price",
     "slug": "t-rowe-price",
-    "description": "T. Rowe Price Group, Inc. is an American publicly owned global investment management firm that offers funds, subadvisory services, separate account management, and retirement plans and services for individuals, institutions, and financial intermediaries.[3] The firm has assets under management of more than $1.51\u00a0trillion and annual revenues of $6.48\u00a0billion as of 2023, placing it 537 on the Fortune 1000 list of the largest U.S. companies.[4] Headquartered at 100 East Pratt Street in Baltimore, Maryland, it has 7,868\u00a0employees[4] across 17\u00a0international offices serving clients in 55\u00a0countries.[5]",
+    "description": "T. Rowe Price Group, Inc. is an American publicly owned global investment management firm that offers funds, subadvisory services, separate account management, and retirement plans and services for individuals, institutions, and financial intermediaries.[3] The firm has assets under management of more than $1.51 trillion and annual revenues of $6.48 billion as of 2023, placing it 537 on the Fortune 1000 list of the largest U.S. companies.[4] Headquartered at 100 East Pratt Street in Baltimore, Maryland, it has 7,868 employees[4] across 17 international offices serving clients in 55 countries.[5]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -5135,15 +4362,7 @@
     "slug": "take-two-interactive",
     "description": "Take-Two Interactive Software, Inc. is an American video game holding company based in New York City founded by Ryan Brant in September 1993.",
     "brands": [],
-    "other_companies": [
-      "2K",
-      "Dynamixyz",
-      "GameClub",
-      "Ghost Story Games",
-      "NBA Take-Two Media(50%)",
-      "Rockstar Games",
-      "Zynga"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5193,12 +4412,7 @@
     "slug": "teledyne-technologies",
     "description": "Teledyne Technologies Incorporated is an American industrial conglomerate. It was founded in 1960, as Teledyne, Inc. by Henry Singleton and George Kozmetsky.",
     "brands": [],
-    "other_companies": [
-      "Teledyne FLIR",
-      "Teledyne LeCroy",
-      "Teledyne e2v",
-      "(list...)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5216,12 +4430,9 @@
     "id": 441,
     "name": "Tesla, Inc.",
     "slug": "tesla-inc",
-    "description": "Tesla, Inc. (/\u02c8t\u025bzl\u0259/ TEZ-l\u0259 or /\u02c8t\u025bsl\u0259/ \u24d8 TESS-l\u0259[a]) is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures, and sells battery electric vehicles (BEVs), stationary battery energy storage devices from home to grid-scale, solar panels and solar shingles, and related products and services.",
+    "description": "Tesla, Inc. (/ˈtɛzlə/ TEZ-lə or /ˈtɛslə/ ⓘ TESS-lə[a]) is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures, and sells battery electric vehicles (BEVs), stationary battery energy storage devices from home to grid-scale, solar panels and solar shingles, and related products and services.",
     "brands": [],
-    "other_companies": [
-      "Tesla Automation",
-      "Tesla Energy"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5239,7 +4450,7 @@
     "id": 443,
     "name": "Texas Pacific Land Corporation",
     "slug": "texas-pacific-land-corporation",
-    "description": "The Texas Pacific Land Corporation is a publicly traded real estate operating company with its administrative office in Dallas, Texas. Owning over 880,000 acres (3,600\u00a0km2) in 20 West Texas counties, TPL is among the largest private landowners in the state of Texas. It was previously organized as a publicly traded trust taxed as a corporation, and operated under the name Texas Pacific Land Trust.",
+    "description": "The Texas Pacific Land Corporation is a publicly traded real estate operating company with its administrative office in Dallas, Texas. Owning over 880,000 acres (3,600 km2) in 20 West Texas counties, TPL is among the largest private landowners in the state of Texas. It was previously organized as a publicly traded trust taxed as a corporation, and operated under the name Texas Pacific Land Trust.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -5249,28 +4460,9 @@
     "id": 444,
     "name": "Textron",
     "slug": "textron",
-    "description": "Textron Inc. is an American industrial  conglomerate based in Providence, Rhode Island. Textron's subsidiaries include Bell Textron, Kautex, Textron Aviation (which itself includes the Beechcraft and Cessna brands), and Lycoming Engines. It was founded by Royal Little in\u00a01923 as the Special Yarns Company. In 2020, Textron employed over 33,000 people in 25 countries.[2]\nThe company ranked 265th on the 2021 Fortune 500 of the largest United States corporations by revenue.[3]",
+    "description": "Textron Inc. is an American industrial  conglomerate based in Providence, Rhode Island. Textron's subsidiaries include Bell Textron, Kautex, Textron Aviation (which itself includes the Beechcraft and Cessna brands), and Lycoming Engines. It was founded by Royal Little in 1923 as the Special Yarns Company. In 2020, Textron employed over 33,000 people in 25 countries.[2]\nThe company ranked 265th on the 2021 Fortune 500 of the largest United States corporations by revenue.[3]",
     "brands": [],
-    "other_companies": [
-      "AAI Corporation",
-      "Able Aerospace Services",
-      "Advanced Information Solutions",
-      "Arctic Cat",
-      "Avco",
-      "Beechcraft",
-      "Bell Textron",
-      "Cessna Aircraft",
-      "E-Z-GO",
-      "Geospatial Solutions",
-      "Jacobsen Manufacturing",
-      "Kautex",
-      "Lycoming Engines",
-      "Pipistrel",
-      "Textron AirLand",
-      "Textron Marine & Land Systems",
-      "Textron Weapon & Sensor Systems",
-      "TRU Simulation & Training"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5298,16 +4490,9 @@
     "id": 447,
     "name": "TKO Group Holdings",
     "slug": "tko-group-holdings",
-    "description": "TKO Group Holdings, Inc. (TKO) is an American sports and sports entertainment company. Established on September 12, 2023, the public company was formed by a merger between Endeavor subsidiary Zuffa\u2014the parent company of the Ultimate Fighting Championship (UFC), a mixed martial arts promotion\u2014and the professional wrestling promotion World Wrestling Entertainment (WWE).",
+    "description": "TKO Group Holdings, Inc. (TKO) is an American sports and sports entertainment company. Established on September 12, 2023, the public company was formed by a merger between Endeavor subsidiary Zuffa—the parent company of the Ultimate Fighting Championship (UFC), a mixed martial arts promotion—and the professional wrestling promotion World Wrestling Entertainment (WWE).",
     "brands": [],
-    "other_companies": [
-      "IMG",
-      "On Location[a]",
-      "PBR",
-      "UFC",
-      "WWE",
-      "Zuffa Boxing(40%)[2]"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5375,7 +4560,7 @@
     "id": 454,
     "name": "Truist Financial",
     "slug": "truist-financial",
-    "description": "Truist Financial Corporation (/\u02c8tru\u02d0\u026ast/[6]) is an American bank holding company headquartered in Charlotte, North Carolina.[7] The company was formed in December 2019 as the result of the merger of BB&T (Branch Banking and Trust Company) and SunTrust.[1][8][9] Its bank operates 1,928 branches in 15 states and Washington, D.C., offering consumer, commercial, and investment banking, securities brokerage, asset management, mortgage, and insurance products and services.[3] It is on the list of largest banks in the United States by assets; as of May 2025, it is the tenth-largest bank, with $523 billion in assets.[10][11]",
+    "description": "Truist Financial Corporation (/ˈtruːɪst/[6]) is an American bank holding company headquartered in Charlotte, North Carolina.[7] The company was formed in December 2019 as the result of the merger of BB&T (Branch Banking and Trust Company) and SunTrust.[1][8][9] Its bank operates 1,928 branches in 15 states and Washington, D.C., offering consumer, commercial, and investment banking, securities brokerage, asset management, mortgage, and insurance products and services.[3] It is on the list of largest banks in the United States by assets; as of May 2025, it is the tenth-largest bank, with $523 billion in assets.[10][11]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -5407,11 +4592,7 @@
     "slug": "us-bancorp",
     "description": "U.S. Bancorp (stylized as us bancorp) is an American multinational banking institution headquartered in Minneapolis, Minnesota and incorporated in Delaware. It is the 5th-largest bank in the United States as of 2025. As the largest bank in the Midwestern United States, it is considered systemically important by the Financial Stability Board. It is the parent company of its primary operating entity, U.S. Bank National Association, which does business as U.S. Bank (stylized as us bank). The company provides banking, investment, mortgage, trust, and payment services products to individuals, businesses, governmental entities, and other financial institutions.",
     "brands": [],
-    "other_companies": [
-      "Elavon",
-      "Talech",
-      "Syncada"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5421,14 +4602,7 @@
     "slug": "uber",
     "description": "Uber Technologies, Inc. is an American multinational transportation company that provides ride-hailing services, courier services, food delivery, and freight transport.[1] It is headquartered in San Francisco, California, and operates in approximately 70 countries and 15,000 cities worldwide.[1] It is the largest ridesharing company worldwide with over 180 million monthly active users and 6 million active drivers and couriers. It coordinates an average of 36 million trips and delivery orders per day, and has coordinated 64 billion trips and delivery orders since its inception in 2010.[2] In the second quarter of 2025, the company had a take rate (revenue as a percentage of gross bookings) of 30.6% for mobility services and 18.8% for food delivery.[2]",
     "brands": [],
-    "other_companies": [
-      "Careem(2020\u20132023)",
-      "Cornershop",
-      "Drizly(2021\u20132024)",
-      "Postmates",
-      "Uber Carshare(2022\u20132024)",
-      "Uber Eats"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5468,10 +4642,7 @@
     "slug": "united-airlines-holdings",
     "description": "United Airlines, Inc. is a major airline in the United States headquartered in Chicago, Illinois. It operates an extensive domestic and international route network across the United States and to destinations on six continents. Regional service is provided by independent carriers operating under the United Express brand, and the Star Alliance, of which United was one of the five founding airlines, extends its network throughout the world.",
     "brands": [],
-    "other_companies": [
-      "United Express",
-      "Republic Airways Holdings(18.2%)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5481,16 +4652,7 @@
     "slug": "united-parcel-service",
     "description": "United Parcel Service, Inc. (UPS) is an American multinational shipping & receiving and supply chain management company founded in 1907.[1] Originally known as the American Messenger Company specializing in telegraphs, UPS has expanded to become a Fortune 500 company[6] and one of the world's largest shipping couriers. UPS today is primarily known for its ground shipping services as well as the UPS Store, a retail chain which assists UPS shipments and provides tools for small businesses. UPS offers air shipping on an overnight or two-day basis and delivers to post office boxes through UPS Mail Innovations and UPS SurePost.",
     "brands": [],
-    "other_companies": [
-      "UPS Airlines",
-      "Nightline Group",
-      "Marken",
-      "UPS Logistics",
-      "UPS Mail Innovations",
-      "UPS Professional Solutions",
-      "Roadie",
-      "UPS i-parcel"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5510,10 +4672,7 @@
     "slug": "unitedhealth-group",
     "description": "UnitedHealth Group Incorporated is an American multinational for-profit company specializing in health insurance and health care services based in Eden Prairie, Minnesota. Selling insurance products under UnitedHealthcare, and health care services under the Optum brand, it is the world's seventh-largest company by revenue and the largest health care company by revenue. The company is ranked seventh on the 2025 Fortune Global 500.[5]",
     "brands": [],
-    "other_companies": [
-      "Optum",
-      "UnitedHealthcare"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5523,15 +4682,7 @@
     "slug": "universal-health-services",
     "description": "Universal Health Services, Inc. (UHS) is an American Fortune 500 company [1] that provides hospital and healthcare services, based in King of Prussia, Pennsylvania. In 2024, UHS reported total revenues of $15.8 billion.[2]",
     "brands": [],
-    "other_companies": [
-      "Alpha Hospital Group",
-      "Ascend Health Corporation",
-      "Cygnet Health Care",
-      "Foundations Recovery Network",
-      "Palo Verde Behavioral Health",
-      "Psychiatric Institute of Washington",
-      "Psychiatric Solutions, Inc."
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5581,12 +4732,7 @@
     "slug": "verisk-analytics",
     "description": "Verisk Analytics, Inc. is an American multinational data analytics and risk assessment firm based in Jersey City, New Jersey, with clients in insurance, government, and risk management sectors. The company uses proprietary data sets and industry expertise to provide predictive analytics and decision support consultations in areas including fraud prevention, actuarial science, insurance coverage, fire protection, catastrophe and weather risk, and data management.",
     "brands": [],
-    "other_companies": [
-      "AIR Worldwide",
-      "Insurance Services Office",
-      "Maplecroft",
-      "Xactware"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5594,14 +4740,9 @@
     "id": 472,
     "name": "Verizon",
     "slug": "verizon",
-    "description": "Verizon Communications Inc. (/v\u0259\u02c8ra\u026az\u0259n/ \u24d8 v\u0259-RY-z\u0259n), is an American telecommunications company headquartered in New York City.[3] It is the world's second-largest telecommunications company by revenue and its mobile network is the largest wireless carrier in the United States, with 146.1 million subscribers as of June 30, 2025.[10]",
+    "description": "Verizon Communications Inc. (/vəˈraɪzən/ ⓘ və-RY-zən), is an American telecommunications company headquartered in New York City.[3] It is the world's second-largest telecommunications company by revenue and its mobile network is the largest wireless carrier in the United States, with 146.1 million subscribers as of June 30, 2025.[10]",
     "brands": [],
-    "other_companies": [
-      "Verizon Fios",
-      "Visible by Verizon",
-      "TracFone Wireless",
-      "Yahoo(10%)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5621,10 +4762,7 @@
     "slug": "viatris",
     "description": "Viatris Inc. is an American global pharmaceutical and healthcare corporation headquartered in Canonsburg, Pennsylvania. The corporation was formed through the merger of Mylan and Upjohn, a legacy division of Pfizer, on November 16, 2020.[2]",
     "brands": [],
-    "other_companies": [
-      "Oyster Point Pharma",
-      "Famy Life Sciences"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5642,7 +4780,7 @@
     "id": 476,
     "name": "Visa Inc.",
     "slug": "visa-inc",
-    "description": "Visa Inc. (/\u02c8vi\u02d0z\u0259, \u02c8vi\u02d0s\u0259/) is an American multinational payment card services corporation headquartered in San Francisco, California.[2][5] It facilitates electronic funds transfers throughout the world, most commonly through Visa-branded credit cards, debit cards and prepaid cards.[6]",
+    "description": "Visa Inc. (/ˈviːzə, ˈviːsə/) is an American multinational payment card services corporation headquartered in San Francisco, California.[2][5] It facilitates electronic funds transfers throughout the world, most commonly through Visa-branded credit cards, debit cards and prepaid cards.[6]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -5654,15 +4792,7 @@
     "slug": "vistra-corp",
     "description": "Vistra Corp. is an integrated retail electricity and power generation company based in Irving, Texas. The company is the largest competitive power generator in the U.S. with a capacity of approximately 39GW powered by a diverse portfolio, including natural gas, coal, nuclear, solar, and battery energy storage facilities.[2]",
     "brands": [],
-    "other_companies": [
-      "TXU Energy",
-      "Luminant",
-      "Dynegy",
-      "Homefield Energy",
-      "Ambit Energy",
-      "Crius Energy",
-      "Energy Harbor"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5670,7 +4800,7 @@
     "id": 478,
     "name": "Vulcan Materials Company",
     "slug": "vulcan-materials-company",
-    "description": "Vulcan Materials Company (NYSE:\u00a0VMC) is an American company based in Birmingham, Alabama. It is principally engaged in the production, distribution and sale of construction materials. Vulcan is the largest producer of construction materials, primarily gravel, crushed stone, and sand, and employs approximately 12,000 people at over 400 facilities. Vulcan serves 22 states, the District of Columbia, Mexico, Canada, Bahamas and the U.S. Virgin Islands. Vulcan's Crescent Market project led to construction of a large quarry and deep water seaport on the Yucat\u00e1n Peninsula of Mexico, just south of Canc\u00fan. This quarry supplies Tampa, New Orleans, Houston, and Brownsville, Texas, as well as other Gulf coast seaports, with crushed limestone via large 62,000-ton self-discharging ships.",
+    "description": "Vulcan Materials Company (NYSE: VMC) is an American company based in Birmingham, Alabama. It is principally engaged in the production, distribution and sale of construction materials. Vulcan is the largest producer of construction materials, primarily gravel, crushed stone, and sand, and employs approximately 12,000 people at over 400 facilities. Vulcan serves 22 states, the District of Columbia, Mexico, Canada, Bahamas and the U.S. Virgin Islands. Vulcan's Crescent Market project led to construction of a large quarry and deep water seaport on the Yucatán Peninsula of Mexico, just south of Cancún. This quarry supplies Tampa, New Orleans, Houston, and Brownsville, Texas, as well as other Gulf coast seaports, with crushed limestone via large 62,000-ton self-discharging ships.",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -5772,15 +4902,7 @@
     "slug": "wells-fargo",
     "description": "Wells Fargo & Company is an American multinational financial services company.[5][8] The company operates in 35 countries and serves more than 70 million customers worldwide.[5] It is a systemically important financial institution according to the Financial Stability Board, and is considered one of the \"Big Four Banks\" in the United States, alongside JPMorgan Chase, Bank of America, and Citigroup.[9]",
     "brands": [],
-    "other_companies": [
-      "Wells Fargo Advisors",
-      "Wells Fargo Bank, N.A.",
-      "Wells Fargo Rail",
-      "Wells Fargo Securities",
-      "Wachovia",
-      "First Union",
-      "CoreStates Financial"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5818,7 +4940,7 @@
     "id": 492,
     "name": "Weyerhaeuser",
     "slug": "weyerhaeuser",
-    "description": "The Weyerhaeuser Company (/\u02c8w\u025b\u0259rha\u028az\u0259r/ WAIR-how-z\u0259r) is an American timberland company which owns approximately 10,400,000 acres (16,200\u00a0sq\u00a0mi; 42,000\u00a0km2) of timberlands in the U.S., and manages an additional 14,000,000 acres (22,000\u00a0sq\u00a0mi; 57,000\u00a0km2) of timberlands under long-term licenses in Canada.[4] The company has manufactured wood products for over a century.[5] It operates as a real estate investment trust (REIT).[4]",
+    "description": "The Weyerhaeuser Company (/ˈwɛərhaʊzər/ WAIR-how-zər) is an American timberland company which owns approximately 10,400,000 acres (16,200 sq mi; 42,000 km2) of timberlands in the U.S., and manages an additional 14,000,000 acres (22,000 sq mi; 57,000 km2) of timberlands under long-term licenses in Canada.[4] The company has manufactured wood products for over a century.[5] It operates as a real estate investment trust (REIT).[4]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -5858,7 +4980,7 @@
     "id": 496,
     "name": "Workday, Inc.",
     "slug": "workday-inc",
-    "description": "Workday, Inc., is an American on\u2011demand (cloud-based) financial management, human capital management, and student information system software vendor. Workday was founded by David Duffield, founder and former CEO of ERP company PeopleSoft, along with former PeopleSoft chief strategist Aneel Bhusri, following Oracle's acquisition of PeopleSoft in 2005.[2]",
+    "description": "Workday, Inc., is an American on‑demand (cloud-based) financial management, human capital management, and student information system software vendor. Workday was founded by David Duffield, founder and former CEO of ERP company PeopleSoft, along with former PeopleSoft chief strategist Aneel Bhusri, following Oracle's acquisition of PeopleSoft in 2005.[2]",
     "brands": [],
     "other_companies": [],
     "issues": [],
@@ -5880,13 +5002,7 @@
     "slug": "xcel-energy",
     "description": "Xcel Energy Inc. is a U.S. regulated electric utility and natural gas delivery company based in Minneapolis, Minnesota, serving approximately 3.9 million electricity customers and 2.2 million natural gas customers across parts of eight states as of mid-2025.[3] It consists of four operating subsidiaries: Northern States Power-Minnesota, Northern States Power-Wisconsin, Public Service Company of Colorado, and Southwestern Public Service Co.[4]",
     "brands": [],
-    "other_companies": [
-      "Northern States Power Company (Minnesota)",
-      "Northern States Power Company (Wisconsin)",
-      "Public Service Company of Colorado",
-      "Southwestern Public Service Company",
-      "NRG Energy(1992\u20132003)"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5906,18 +5022,7 @@
     "slug": "yum-brands",
     "description": "Yum! Brands, Inc. (sometimes called just Yum!) is an American multinational fast food corporation. It was formed in 1977 as a subsidiary of PepsiCo, after the company acquired KFC, Pizza Hut, and Taco Bell. PepsiCo divested the brands in 1997, and these consolidated as Yum!. The company operates KFC, Pizza Hut, Taco Bell, Habit Burger & Grill, and several technology companies.",
     "brands": [],
-    "other_companies": [
-      "KFCPizza HutTaco BellHabit Burger & GrillHeartstylesTictuk TechnologiesKvantumDragontail Systems",
-      "",
-      "KFC",
-      "Pizza Hut",
-      "Taco Bell",
-      "Habit Burger & Grill",
-      "Heartstyles",
-      "Tictuk Technologies",
-      "Kvantum",
-      "Dragontail Systems"
-    ],
+    "other_companies": [],
     "issues": [],
     "people": []
   },
@@ -5945,7 +5050,7 @@
     "id": 503,
     "name": "Zoetis",
     "slug": "zoetis",
-    "description": "Zoetis Inc. (/z\u014d-EH-tis/[4]) is an American drug company, the world's largest producer of medicine and vaccinations for pets and livestock.[5][4][6] The company was a subsidiary of Pfizer,[7] the world's largest drug maker, but with Pfizer's spinoff of its 83% interest in the firm it is now a completely independent company. The company directly markets its products in approximately 45 countries, and sells them in more than 100 countries.[8] Operations outside the United States accounted for 50% of the total revenue.[5] Contemporaneous with the spinoff in June 2013 S&P Dow Jones Indices announced that Zoetis would replace First Horizon National Corporation in the S&P 500 stock market index.[9]",
+    "description": "Zoetis Inc. (/zō-EH-tis/[4]) is an American drug company, the world's largest producer of medicine and vaccinations for pets and livestock.[5][4][6] The company was a subsidiary of Pfizer,[7] the world's largest drug maker, but with Pfizer's spinoff of its 83% interest in the firm it is now a completely independent company. The company directly markets its products in approximately 45 countries, and sells them in more than 100 countries.[8] Operations outside the United States accounted for 50% of the total revenue.[5] Contemporaneous with the spinoff in June 2013 S&P Dow Jones Indices announced that Zoetis would replace First Horizon National Corporation in the S&P 500 stock market index.[9]",
     "brands": [],
     "other_companies": [],
     "issues": [],

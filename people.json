@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Jeff Bezos",
+    "description": "Founder of Amazon.",
+    "companies": ["Amazon"],
+    "issues": ["Labor Practices", "Antitrust"]
+  },
+  {
+    "id": 2,
+    "name": "Elon Musk",
+    "description": "CEO of Tesla and SpaceX.",
+    "companies": ["Tesla", "X"],
+    "issues": ["Free Speech", "Labor"]
+  },
+  {
+    "id": 3,
+    "name": "Tim Cook",
+    "description": "CEO of Apple.",
+    "companies": ["Apple"],
+    "issues": ["Privacy", "Manufacturing"]
+  }
+]

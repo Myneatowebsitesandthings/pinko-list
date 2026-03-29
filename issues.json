@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Labor Practices",
+    "description": "Concerns related to worker treatment, wages, and union activity.",
+    "companies": ["Amazon", "Walmart"],
+    "people": ["Jeff Bezos"]
+  },
+  {
+    "id": 2,
+    "name": "Censorship",
+    "description": "Content moderation, speech restrictions, and platform control.",
+    "companies": ["Google", "Meta"],
+    "people": ["Elon Musk"]
+  },
+  {
+    "id": 3,
+    "name": "Environmental Impact",
+    "description": "Pollution, emissions, and environmental policies.",
+    "companies": ["ExxonMobil", "Tesla"],
+    "people": []
+  }
+]   

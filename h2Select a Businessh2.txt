@@ -1,0 +1,16 @@
+<h2>Select a Business</h2>
+
+<div class="business-search">
+    <input type="text" id="businessSearch" placeholder="Search company or brand...">
+</div>
+
+<div class="business-dropdown">
+    <select id="businessSelect">
+        <option value="">Choose a business...</option>
+    </select>
+</div>
+
+<div class="business-search">
+    <input type="text" id="businessSearch" placeholder="Search company or brand...">
+</div>
+

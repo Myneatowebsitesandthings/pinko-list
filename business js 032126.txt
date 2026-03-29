@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function () {
-
   const searchInput = document.getElementById("businessSearch");
   const resultsBox = document.getElementById("businessResults");
 
@@ -10,6 +9,11 @@ document.addEventListener("DOMContentLoaded", function () {
   const peopleList = document.getElementById("peopleList");
   const subsidiariesList = document.getElementById("subsidiariesList");
 
+  if (!searchInput || !resultsBox) {
+    console.error("Missing businessSearch or businessResults in HTML.");
+    return;
+  }
+
   let companiesData = [];
   let filteredResults = [];
   let activeIndex = 0;
@@ -17,35 +21,47 @@ document.addEventListener("DOMContentLoaded", function () {
   fetch("companies.json")
     .then(r => r.json())
     .then(data => {
-      companiesData = data.sort((a, b) =>
+      companiesData = (data || []).sort((a, b) =>
         (a.name || "").localeCompare(b.name || "")
       );
       filteredResults = companiesData;
-    });
+      renderResults(filteredResults);
+    })
+    .catch(err => console.error("Error loading companies.json:", err));
 
-  function getRelated(company) {
-    let arr = [];
+  function getRelatedNames(company) {
+    let related = [];
 
-    if (Array.isArray(company.subsidiaries)) arr.push(...company.subsidiaries);
-    if (Array.isArray(company.brands)) arr.push(...company.brands);
-    if (Array.isArray(company.other_companies)) arr.push(...company.other_companies);
+    if (Array.isArray(company.subsidiaries)) {
+      related = related.concat(company.subsidiaries);
+    }
+    if (Array.isArray(company.brands)) {
+      related = related.concat(company.brands);
+    }
+    if (Array.isArray(company.other_companies)) {
+      related = related.concat(company.other_companies);
+    }
 
-    return [...new Set(arr)];
+    return related;
   }
 
-  function displayCompany(company, term = "") {
+  function cleanText(text) {
+    return (text || "").replace(/\[\d+\]/g, "");
+  }
+
+  function displayCompany(company, highlightTerm = "") {
     if (!company) return;
 
     nameHeader.textContent = company.name || "";
-    descriptionParagraph.textContent = (company.description || "").replace(/\[\d+\]/g, "");
+    descriptionParagraph.textContent = cleanText(company.description) || "No description available.";
 
     issuesList.innerHTML = "<p>No issues listed yet.</p>";
     peopleList.innerHTML = "<p>No associated people yet.</p>";
     subsidiariesList.innerHTML = "";
 
-    const related = getRelated(company);
+    const related = getRelatedNames(company);
 
-    if (!related.length) {
+    if (related.length === 0) {
       subsidiariesList.innerHTML = "<p>No subsidiaries listed.</p>";
       return;
     }
@@ -54,11 +70,31 @@ document.addEventListener("DOMContentLoaded", function () {
       const p = document.createElement("p");
       p.textContent = item;
 
-      if (term && item.toLowerCase().includes(term.toLowerCase())) {
+      if (highlightTerm && item.toLowerCase().includes(highlightTerm.toLowerCase())) {
         p.classList.add("highlight-brand");
       }
 
       subsidiariesList.appendChild(p);
+    });
+  }
+
+  function filterCompanies(term) {
+    const q = term.trim().toLowerCase();
+
+    if (!q) return companiesData;
+
+    return companiesData.filter(company => {
+      const companyName = (company.name || "").toLowerCase();
+      const companyMatch =
+        companyName.startsWith(q) || companyName.includes(" " + q);
+
+      const related = getRelatedNames(company);
+      const relatedMatch = related.some(item =>
+        (item || "").toLowerCase().startsWith(q) ||
+        (item || "").toLowerCase().includes(" " + q)
+      );
+
+      return companyMatch || relatedMatch;
     });
   }
 
@@ -72,7 +108,7 @@ document.addEventListener("DOMContentLoaded", function () {
       return;
     }
 
-    results.forEach((company, index) => {
+    results.slice(0, 12).forEach((company, index) => {
       const item = document.createElement("div");
       item.className = "business-result-item";
       if (index === 0) item.classList.add("active-result");
@@ -90,89 +126,58 @@ document.addEventListener("DOMContentLoaded", function () {
     resultsBox.style.display = "block";
   }
 
-  function selectCompany(company) {
-    const real = companiesData.find(c => c.slug === company.slug) || company;
-
-    searchInput.value = real.name;
-    resultsBox.style.display = "none";
-
-    displayCompany(real, searchInput.value);
-  }
-
-  function filter(term) {
-    const q = term.toLowerCase().trim();
-
-    if (!q) return companiesData;
-
-    return companiesData.filter(c => {
-      const name = (c.name || "").toLowerCase();
-
-      const nameMatch =
-        name.startsWith(q) || name.includes(" " + q);
-
-      const related = getRelated(c);
-
-      const relatedMatch = related.some(r =>
-        (r || "").toLowerCase().includes(q)
-      );
-
-      return nameMatch || relatedMatch;
+  function updateActiveResult() {
+    const items = resultsBox.querySelectorAll(".business-result-item");
+    items.forEach((item, index) => {
+      item.classList.toggle("active-result", index === activeIndex);
     });
   }
 
-  // CLICK = SHOW FULL LIST + HIGHLIGHT TEXT
+  function selectCompany(company) {
+    searchInput.value = company.name;
+    resultsBox.style.display = "none";
+
+    const term = searchInput.value.trim();
+    displayCompany(company, term);
+  }
+
   searchInput.addEventListener("focus", function () {
-    renderResults(companiesData);
-    searchInput.select();
+    renderResults(filterCompanies(searchInput.value));
   });
 
-  searchInput.addEventListener("click", function () {
-    renderResults(companiesData);
-    searchInput.select();
-  });
-
-  // TYPE FILTERING
   searchInput.addEventListener("input", function () {
-    renderResults(filter(searchInput.value));
+    const results = filterCompanies(searchInput.value);
+    renderResults(results);
   });
 
-  // KEYBOARD CONTROL
   searchInput.addEventListener("keydown", function (e) {
-    const visible = filteredResults;
+    const visibleResults = filteredResults.slice(0, 12);
 
-    if (!visible.length) return;
+    if (!visibleResults.length) return;
 
     if (e.key === "ArrowDown") {
       e.preventDefault();
-      activeIndex = Math.min(activeIndex + 1, visible.length - 1);
-      updateActive();
+      activeIndex = Math.min(activeIndex + 1, visibleResults.length - 1);
+      updateActiveResult();
       return;
     }
 
     if (e.key === "ArrowUp") {
       e.preventDefault();
       activeIndex = Math.max(activeIndex - 1, 0);
-      updateActive();
+      updateActiveResult();
       return;
     }
 
     if (e.key === "Enter") {
       e.preventDefault();
-      selectCompany(visible[activeIndex]);
+      selectCompany(visibleResults[activeIndex]);
     }
   });
-
-  function updateActive() {
-    const items = resultsBox.querySelectorAll(".business-result-item");
-    items.forEach((el, i) => {
-      el.classList.toggle("active-result", i === activeIndex);
-    });
-  }
 
   document.addEventListener("click", function (e) {
     if (!e.target.closest(".business-search-wrap")) {
       resultsBox.style.display = "none";
     }
   });
-
 });
